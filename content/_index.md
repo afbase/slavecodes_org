@@ -6,4 +6,4 @@ insert_anchor_links = "none"
 in_search_index = true
 render = true
 +++
-Coming Soon
+[Coming Soon](https://github.com/afbase/slavecodes_org)
