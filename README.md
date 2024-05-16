@@ -1,3 +1,3 @@
 # slavecodes_org
 
-contributions welcomed
+contributions welcomed.
