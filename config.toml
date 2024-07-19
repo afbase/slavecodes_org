@@ -79,4 +79,4 @@ weight = 20
 
 # Footer contents
 [extra.footer]
-info = ''
+info = 'Powered by <a href="https://www.getzola.org/">Zola</a> | Theme <a href="https://github.com/aaranxu/adidoks">Adidoks</a>'
