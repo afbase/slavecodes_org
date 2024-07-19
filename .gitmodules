@@ -1,0 +1,3 @@
+[submodule "adidoks"]
+	path = themes/adidoks
+	url = https://github.com/afbase/adidoks.git
