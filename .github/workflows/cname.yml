@@ -13,17 +13,13 @@ jobs:
   update-cname:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          ref: gh-pages
-          token: ${{ secrets.ACTIONS_TOKEN }}
-
-      - name: Create CNAME file
-        run: echo "slavecodes.org" > CNAME
-
-      - name: Commit and push changes
+      - name: Clone, Echo, and push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.ACTIONS_TOKEN }}
         run: |
+          git clone --depth 1 --branch "gh-pages" "https://${GITHUB_TOKEN}@github.com/afbase/slavecodes_org.git"
+          cd slavecodes_org
+          echo "slavecodes.org" > CNAME
           git config --local user.email "afbase@users.noreply.github.com"
           git config --local user.name "clinton bowen"
           git add CNAME
