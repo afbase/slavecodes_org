@@ -35,6 +35,7 @@ author = "Clinton Bowen"
 github = "https://github.com/afbase"
 bluesky = "https://bsky.app/profile/slavecodes.org"
 email = "clinton@slavecodes.org"
+lead = "A collection of historical laws on chattel slavery across the Americas"
 ganalytics = ""  # Google Analytics code
 # If running on netlify.app site, set to true
 is_netlify = false
@@ -53,6 +54,7 @@ timezone = "UTC"
 # Edit page on reposity or not
 edit_page = false
 docs_repo = "https://github.com/afbase/slavecodes_org"
+repo_url = "https://github.com/afbase/slavecodes_org/tree/main"
 repo_branch = "main"
 # Put all your custom variables here
 # Set HTML file language
@@ -74,3 +76,7 @@ weight = 10
 name = "Code of Conduct"
 url = "/docs/contributing/code-of-conduct/"
 weight = 20
+
+# Footer contents
+[extra.footer]
+info = ''
