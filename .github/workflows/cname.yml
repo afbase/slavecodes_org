@@ -17,6 +17,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           ref: gh-pages
+          token: ${{ secrets.ACTIONS_TOKEN }}
 
       - name: Create CNAME file
         run: echo "slavecodes.org" > CNAME
