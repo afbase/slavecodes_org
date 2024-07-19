@@ -35,7 +35,6 @@ author = "Clinton Bowen"
 github = "https://github.com/afbase"
 bluesky = "https://bsky.app/profile/slavecodes.org"
 email = "clinton@slavecodes.org"
-lead = "A collection of historical laws on chattel slavery across the Americas"
 ganalytics = ""  # Google Analytics code
 # If running on netlify.app site, set to true
 is_netlify = false

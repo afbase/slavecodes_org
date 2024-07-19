@@ -1,11 +1,12 @@
 +++
-title = "SlaveCodes.org"
+title = "Slave Codes"
 draft = false
 compile_sass = false
 insert_anchor_links = "none"
 in_search_index = true
 render = true
-
+[extra]
+lead = "A collection of historical laws on chattel slavery across the Americas"
 
 # Menu items
 [[extra.menu.main]]
