@@ -23,8 +23,8 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "afbase@users.noreply.github.com"
+          git config --local user.name "clinton bowen"
           git add CNAME
           git commit -m "Update CNAME file" || echo "No changes to commit"
           git push
