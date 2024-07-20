@@ -4,7 +4,7 @@ description = "Detailed information about the 1724 Louisiana code noir"
 sort_by = "weight"
 weight = 3
 template = "codes/page.html"
-draft = true
+draft = false
 [extra]
 lead = "louisiaaana"
 toc = true

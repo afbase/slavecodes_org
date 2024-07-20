@@ -8,7 +8,10 @@ draft = true
 [extra]
 lead = "testing lead"
 toc = true
-top = false
+top = true
+[[extra.slave_code]]
+translations = ["es", "fr", "pt"]
+transcriptions = "en"
 +++
 
 # 1661 Barbados Slave Code

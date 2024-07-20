@@ -1,0 +1,289 @@
+# Prompt
+
+For all subsequent photos, please transcribe the text entirely in French.
+
+1. Do not summarize.  
+2. Do not translate into any other language. 
+3. All Photos are text written in Old French
+4. Please note that sometimes the letter ‘s’ looks like the letter ‘f’.  Use your best judgement on if the french word has an ‘s’ instead of an ‘f’.
+
+If you don’t understand or have questions about this task, please ask me. If you understand the request, please write “Claude understands the request, you may proceed…”
+
+# Translation
+
+LE CODE NOIR
+OU
+EDIT DU ROY,
+SERVANT DE REGLEMENT
+Pour
+Le Gouvernement & l'Administration de la Justice, Police,
+Discipline & le Commerce des Esclaves Negres, dans
+la Province & Colonie de la Loüisianne.
+
+Donné à Versailles au mois de Mars 1724.
+
+LOUIS PAR LA GRACE DE DIEU, ROY DE FRANCE ET DE NAVARRE : A tous prefens & à venir, SALUT. Les Directeurs de la Compagnie des Indes Nous ayant reprefenté que la Province & Colonie de la Loüifianne efl confidérablement eflablie par un grand nombre de nos Sujets, lefquels fe fervent d'Efclaves Negres pour la culture des terres ; Nous avons jugé qu'il efloit de noflre authorité & de noflre Justice, pour la confervation de cette Colonie, d'y eflablir une loy & des regles certaines, pour y maintenir la difcipline de l'Eglife Catholique,
+
+Apostolique & Romaine, & pour ordonner de ce qui concerne l'estat & la qualité des Esclaves dans lesdites Isles. Et desirant y pourvoir, & faire connoître à nos Sujets qui y font habituez & qui s'y establiront à l'avenir, qu'encore qu'ils habitent des climats infiniment éloignez, Nous leur sommes toûjours pre-sens parl'estenduë de nostre puissance, & par nostre application à les secourir; A CES CAUSES, & autres à ce Nous mouvans, de l'avis de nostre Conseil, & de nostre certaine science, pleine puissance & authorité Royale, Nous avons dit, statué & ordon-né, disons, statuons & ordonnons, Voulons & Nous plaît ce qui suit.
+
+ARTICLE PREMIER.
+I. L'Edit du feu Roy Louis XIII. de glorieuse memoire, du 23. Avril 1615. sera executé dans nostre Province & Colonie de la Loüisianne; ce faisant, enjoignons aux Directeurs generaux de ladite Compagnie, & à tous nos Officiers, de chasser dudit Pays tous les Juifs qui peuvent y avoir establi leur residence, ausquels, comme aux ennemis declarez du nom chrestien, Nous commandons d'en sortir dans trois mois, à compter du jour de la publication des Presentes, à peine de confiscation de corps & de biens.
+
+II. Tous les Esclaves qui seront dans nostredite Province, seront instruits dans la Religion Catholique, Apostolique & Romaine, & baptisez : ordonnons aux Habitans qui acheteront des Negres nouvellement arrivez, de les faire instruire & baptiser dans le temps convenable, à peine d'amende arbitraire; Enjoignons aux Directeurs generaux de ladite Compagnie, & à tous nos Officiers, d'y tenir exactement la main.
+
+III.INTERDISONS tous exercices d'autre Religion que de la Ca-tholique, Apostolique & Romaine; Voulons que les contrevenans soient punis comme rebelles & désobéïssans à nos Comman-demens: Deffendons toutes assemblées pour cet effet, lesquelles Nous declarons conventicules, illicites & seditieuses, sujettes à la mesme peine qui aura lieu mesme contre les Maistres
+
+ la mefme peine, qui aura lieu mefme contre les Maîtres qui les permettront ou fouffriront à l'égard de leurs Efclaves.
+
+IV. Ne feront prépofez aucuns Commandeurs à la direction des Negres, qu'ils ne faffent profeffion de la Religion Catholique, Apoftolique & Romaine, à peine de confifcation defdits Negres contre les Maîtres qui les auront prépofez, & de punition arbitraire contre les Commandeurs qui auront accepté ladite direction.
+
+V. Enjoignons à tous nos Sujets, de quelque qualité & condition qu'ils foient, d'obferver regulierement les jours de Dimanches & de Feftes; leur deffendons de travailler, ni de faire travailler leurs Efclaves aufdits jours, depuis l'heure de minuit jufqu'à l'autre minuit, à la culture de la terre & à tous autres ouvrages, à peine d'amende & de punition arbitraire contre les Maîtres, & de confifcation des Efclaves qui feront furpris par nos Officiers dans le travail: pourront néanmoins envoyer leurs Esclaves aux Marchez.
+
+VI. Deffendons à nos Sujets blancs de l'un & de l'autre fexe, de contracter mariage avec les Noirs, à peine de punition & d'amende arbitraire ; & à tous Curez, Preftres ou Miffionnaires feculiers ou reguliers, & mefme aux Aumôniers de Vaiffeaux, de les marier. Deffendons aufli à nofdits Sujets blancs, mefme aux Noirs affranchis ou nez libres, de vivre en concubinage avec des Efclaves ; Voulons que ceux qui auront eû un ou plufieurs enfans d'une pareille conjonction, enfemble les Maîtres qui les auront foufferts, foient condamnez chacun en une amende de trois cens livres : Et s'ils font Maîtres de l'Efclave de laquelle ils auront eû lefdits enfans, voulons qu'outre l'amende ils foient privez tant de l'Efclave que des enfans, & qu'ils foient adjugez à l'Hôpital des lieux fans pouvoir jamais eftre affranchis. N'entendons toutesfois le prefent Article avoir lieu, lorfque l'homme noir, affranchi ou libre, qui n'eftoit point marié durant fon concubinage avec fon Efclave, époufera dans les formes prefcrites par l'Eglife ladite Efclave, qui fera affranchie par ce
+
+moyen, & les enfans rendus libres & legitimes.
+
+VII. Les folennirez prefcrites par l'Ordonnance de Blois, & par la Declaration de 1639, pour les mariages, feront obfervées, tant à l'égard des Perfonnes libres que des Efclaves ; fans néanmoins que le confentement du pere & de la mere de l'Efclave y foit neceffaire, mais celuy du Maître feulement.
+
+VIII. Deffendons tres expreffément aux Curez de proceder aux mariages des Efclaves, s'ils ne font apparoir du confentement de leurs Maîtres : Deffendons auffi aux Maîtres d'ufer d'aucunes contraintes fur leurs Efclaves pour les marier contre leur gré.
+
+IX. Les enfans qui naîtront des mariages entre les Efclaves, feront Efclaves & appartiendront aux Maîtres des femmes Efclaves, & non à ceux de leurs maris, fi les maris & les femmes ont des Maitres differens
+
+X. Voulons, fi le mary Efclave a époufe une femme libre, que les enfans tant mafles que filles, fuivent la condition de leur mere, & foient libres comme elle, nonobftant la fervitude de leur pere ; & que fi le pere eft libre & la mere Efclave, les enfans foient Efclaves pareillement.
+
+XI. Les Maîtres feront tenus de faire enterrer en terre fainte, dans les Cimetieres deftinez à cet effet, leurs Efclaves baptifez ; & à l'égard de ceux qui mourront fans avoir reçu le baptème, ils feront enterrez la nuit dans quelque champ voifin du lieu où ils feront decedez.
+
+XII. Deffendons aux Efclaves de porter aucunes armes offenfives ni de gros bâtons, à peine du foüet, & de confifcation des armes au profit de celuy qui les en trouvera faifis; à l'exception feulement de ceux qui feront envoyez à la Chaffe par leurs Maîtres, & qui feront porteurs de leurs Billets ou marques connuës.
+
+XIII. Deffendons pareillement aux Efclaves appartenans à differens Maîtres, de s'attrouper le jour ou la nuit, fous pretexte de nopces ou autrement, foit chez l'un de leurs Maîtres ou ailleurs, & encore moins dans les grands chemins ou lieux écartez, à peine de punition corporelle, qui ne pourra eftre moins que du foüet & de la fleur-de-Lys ; & en cas de frequentes recidives & autres circonftances agravantes, pourront eftre punis de mort ; ce que Nous laiffons à l'arbitrage des Juges : Enjoignons à tous nos Sujets de courre fus aux contrevenans, & de les arrefter & conduire en prifon, bien qu'ils ne foient Officiers, & qu'il n'y ait encore contre lefdits contrevenans aucun decret.
+
+XIV. Les Maîtres qui feront convaincus d'avoir permis ou toleré de pareilles affemblées, compoſées d'autres Efclaves que de ceux qui leur appartiennent, feront condamnez en leur propre & privé nom, de reparer tout le dommage qui aura efté fait à leurs voifins, à l'occafion defdites affemblées, & en trente livres d'amende pour la premiere fois, & au double en cas de recidive.
+
+XV.
+DEFFENDONS aux Esclaves d'exposer en vente au Marché, ni de porter dans les maisons particulieres, pour vendre, aucune forte de denrées, mesme des fruits, legumes, bois à brûler, herbes ou fourages pour la nourriture des Bestiaux, ni aucune espece de grains ou autres Marchandises, hardes ou nippes, sans permission expresse de leurs Maîtres par un billet ou par des marques connuës; à peine de revendication des choses ainsi venduës, sans restitution de prix par les Maîtres, & de six livres d'amende à leur profit contre les acheteurs par rapport aux fruits, legumes, bois à brûler, herbes, fourages & grains: Voulons que par rapport aux Marchandises, hardes ou nippes, les contrevenans acheteurs soient condamnez à quinze cens livres d'amende, aux dépens, dommages & interests, & qu'ils soient poursuivis extraordinairement comme voleurs receleurs.
+
+XVI.
+VOULONS à cet effet, que deux personnes foient préposées
+
+dans chaque Marché, par les Officiers du Conseil superieur ou des Justices inferieures, pour examiner les Denrées & Marchandises qui y seront apportées par les Esclaves, ensemble les billets & marques de leurs Maîtres dont ils seront porteurs.
+
+XVII.
+PERMETTONS à tous nos Sujets habitans du Pays, de se saisir de toutes les choses dont ils trouveront lesdits Esclaves chargez, lorsqu'ils n'auront point de billets de leurs Maîtres, ni de marques connuës, pour estre renduës incessamment à leurs Maîtres, si leur habitation est voisine du lieu où les Esclaves auront esté surpris en délit; sinon elles seront incessamment envoyées au Magasin de la Compagnie le plus proche, pour y estre en dépost jusqu'à ce que les Maîtres en ayent esté avertis.
+
+XVIII.
+VOULONS que les Officiers de nostre Conseil superieur de la Loüisianne, envoyent leurs avis sur la quantité de vivres & la qualité de l'habillement qu'il convient que les Maîtres fournissent à leurs Esclaves; lesquels vivres doivent leur estre fournis par chacune semaine, & l'habillement par chacune année, pour y estre statué par Nous: & cependant permettons ausdits Officiers, de regler par provision lesdits vivres & ledit habillement; deffendons aux Maîtres desdits Esclaves, de donner aucune forte d'eau de vie pour tenir lieu de ladite fubsistance & habillement.
+
+XIX.
+LEUR deffendons pareillement de se décharger de la nourriture & subsistance de leurs Esclaves, en leur permettant de travailler certain jour de la semaine pour leur compte particulier.
+
+XX.
+LES Esclaves qui ne seront point nourris, vêtus & entretenus par leurs Maîtres, pourront en donner avis au Procureur general dudit Conseil, ou aux Officiers des Justices inferieures, & mettre leurs memoires entre leurs mains; sur lesquels, & même d'office si les avis leur viennent d'ailleurs, les Maîtres seront poursuivis à la Requeste dudit Procureur general & sans frais, ce que Nous voulons estre observé pour les crimes & les
+
+XXI.
+LES Esclaves infirmes par vieillesse, maladie ou autrement, soit que la maladie soit incurable ou non, seront nourris & entretenus par leurs Maîtres; & en cas qu'ils les eussent abandonnez, lesdits Esclaves seront adjugez à l'Hôpital le plus proche, auquel les Maîtres seront condamnez de payer huit sols par chacun jour pour la nourriture & entretien de chacun Esclave; pour le payement de laquelle somme, ledit Hôpital aura privilege sur les habitations des Maîtres, en quelques mains qu'elles passent.
+
+XXII.
+DECLARONS les Esclaves ne pouvoir rien avoir qui ne soit à leurs Maîtres, & tout ce qui leur vient par leur industrie ou par la liberalité d'autres personnes ou autrement, à quelque titre que ce soit, estre acquis en pleine proprieté à leurs Maîtres; sans que les enfans des Esclaves, leurs pere & mere, leurs parens & tous autres, libres ou esclaves y puissent rien prétendre, par successions, dispositions entre vifs, ou à cause de mort; lesquelles dispositions declarons nulles, ensemble toutes les Promesses & Obligations qu'ils auroient faites, comme estant faites par gens incapables de disposer & contracter de leur Chef.
+
+XXIII.
+VOULONS néanmoins que les Maîtres soient tenus de ce que leurs Esclaves auront fait par leur commandement, ensemble de ce qu'ils auront geré & negocié dans leurs Boutiques, & pour l'espece particuliere de commerce à laquelle leurs Maîtres les auront préposez; & en cas que leurs Maîtres n'ayent donné aucun ordre, & ne les ayent point préposez, ils seront tenus seulement jusqu'à concurrence de ce qui aura tourné à leur profit; & si rien n'a tourné au profit des Maîtres, le pecule desdits Esclaves, que les Maîtres leur auront permis d'avoir, en sera tenu après que leurs Maîtres en auront déduit par préference ce qui pourra leur en estre dû, sinon que le pecule consistat en tout ou partie en Marchandises dont les Esclaves auroient
+
+permiffion de faire trafic à part, fur lefquelles leurs Maîtres viendront feulement par contribution au sol la livre avec les autres
+Créanciers.
+XXIV.
+Ne pourront les Efclaves efire pourvûs d'Offices ni de Commiffion ayant quelque fonction publique, ni eftre conftituez
+Agens par autres que par leurs Maîtres, pour gerer & adminiftrer aucun negoce, ni eftre arbitres ou experts : ne pourront
+auffi eftre temoins, tant en matieres civiles que criminelles, à
+moins qu'ils ne foient témoins neceffaires, & feulement à défaut
+de Blancs : mais dans aucun cas ils ne pourront fervir de témoins
+pour ou contre leurs Maîtres.
+XXV.
+Ne pourront auffi les Efclaves, eftre parties ni eftre en jugement en matiere civile, tant en demandant qu'en deffendant,
+ni eftre parties civiles en matiere criminelle; fauf à leurs Maîtres
+d'agir & deffendre en matiere civile, & de pourfuivre en matiere criminelle la reparation des outrages & excès qui auront
+efté commis contre leurs Efclaves.
+XXVI.
+Pourront les Efclaves eftre pourfuivis criminellement, fans
+qu'il foit befoin de rendre leurs Maîtres parties, si ce n'eft
+en cas de complicité; & feront les Efclaves accufez, jugez en
+premiere inftance par les Juges ordinaires s'il y en a, & par
+appel au Confeil fur la mefme inftruction, & avec les mefmes
+formalitez que les perfonnes libres, aux exceptions cy après.
+
+XXVII.
+L'Esclave qui aura frappé fon Maître, fa Maitreffe, le mary
+de la Maitreffe, ou leurs enfans, avec contufion ou effufion de
+fang, ou au visage, sera puni de mort.
+XXVIII.
+Et quant aux excés & voyes de fait, qui feront commis par
+les Efclaves contre les perfonnes libres, voulons qu'ils foient
+fevérement punis, mefme de mort s'il y échoit.
+XXIX.
+Les vols qualifiez, meme ceux de Chevaux, Cavales,
+
+Mulets, Bœufs ou Vaches, qui auront efté faits par les Efclaves
+ou par les affranchis, feront punis de peine afflictive, mefme de
+mort fi le cas le requiert.
+XXX.
+Les vols de Moutons, Chevres, Cochons, Volailles, Grains,
+Fourage, Poids, Feves, ou autres Legumes & Denrées, faits
+par les Efclaves, feront punis felon la qualité du vol par les
+Juges, qui pourront, s'il y échoit, les condamner d'eftre battus
+de verges par l'Executeur de la haute Justice, & marquez
+d'une Fleur-de-Lys.
+XXXI.
+Seront tenus les Maîtres, en cas de vol ou d'autre dommage caufé par leurs Efclaves, outre la peine corporelle des
+Efclaves, de reparer le tort en leur nom, s'ils n'aiment mieux
+abandonner l'Efclave à celuy auquel le tort aura efté fait; ce
+qu'ils feront tenus d'opter dans trois jours, à compter de celuy
+de la condamnation, autrement ils en feront déchus.
+XXXII.
+L'Esclave fugitif qui aura efté en fuite pendant un mois,
+à compter du jour que fon Maître l'aura dénoncé à Justice,
+aura les orcilles coupées, & fera marqué d'une Fleur-de-Lys
+fur une épaule; & s'il récidive pendant un autre mois, à
+compter pareillement du jour de la dénonciation, il aura le
+jarret coupé, & il fera marqué d'une Fleur-de-Lys fur l'autre
+épaule; & la troifiéme fois, il fera puni de mort.
+
+XXXIII.
+Voulons que les Efclaves qui auront encouru les peines
+du foüet, de la fleur-de-Lys, & des orcilles coupées, foient jugez en dernier reffort par les Juges ordinaires, & executez fans
+qu'il foit neceffaire que tels jugemens foient confirmez par le
+Confeil fuperieur, nonobftant le contenu en l'Article XXVI.
+des prefentes, qui n'aura lieu que pour les jugemens portant
+condamnation de mort ou du jarret coupé.
+XXXIV.
+Les affranchis ou Negres libres qui auront donné retraite
+dans leurs maisons aux Efclaves fugitifs, feront condamnez par
+
+corps envers le Maître, en une amende de trente livres par chacun jour de retention; & les autres perfonnes libres qui leur
+auront donné pareille retraite, en dix livres d'amende auffi par
+chacun jour de retention: & faute par lefdits Negres affranchis
+ou libres, de pouvoir payer l'amende, ils feront reduits à la
+condition d'Efclaves & vendus, & fi le prix de la vente paffe
+l'amende, le furplus fera delivré à l'Hôpital.
+XXXV.
+Permettons à nos Sujets dudit Pays qui auront des Efclaves fugitifs, en quelque lieu que ce foit, d'en faire faire la recherche par telles perfonnes & à telles conditions qu'ils jugeront à propos, ou de la faire eux-mefmes ainfi que bon leur
+femblera.
+XXXVI.
+L'Esclave condamné à mort fur la dénonciation de fon
+Maître lequel ne fera point complice du crime, fera eftimé avant
+l'execution par deux des principaux Habitans qui feront nommez d'office par le Juge, & le prix de l'eftimation en fera payé,
+pour à quoy fatisfaire, il fera impofé par noftre Confeil fuperieur fur chaque tefte de Negre, la fomme portée par l'eftimation, laquelle fera reglée fur chacun defdits Negres, & levée par
+ceux qui feront commis à cet effet.
+XXXVII.
+Deffendons à tous Officiers de noftredit Confeil, & autres
+Officiers de Justice eftablis audit Pays, de prendre aucune taxe
+dans les procés criminels contre les Efclaves, à peine de concuffion.
+
+XXXVIII.
+Deffendons auffi à tous nos Sujets defdits Pays, de quelque qualité & condition qu'ils foient, de donner ou faire donner de leur authorité privée la queftion ou torture à leurs Efclaves, fous quelque pretexte que ce foit, ni de leur faire ou
+faire faire aucune mutilation de membre, à peine de confifcation des Efclaves, & d'eftre procedé contre eux extraordinairement: leur permettons feulement, lorfqu'ils croyront que leurs
+Efclaves l'auront merité, de les faire enchainer & battre de
+verges ou de cordes.
+
+XXXIX.
+Enjoignons aux Officiers de Justice establis dans ledit
+Pays, de proceder criminellement contre les Maitres & les
+Commandeurs qui auront tué leurs Esclaves, ou leur auront
+mutilé les membres estant fous leur puissance ou fous leur direction, & de punir le meurtre selon l'atrocité des circonstances: & en cas qu'il y ait lieu à l'absolution, leur permettons de
+renvoyer, tant les Maitres que les Commandeurs, absous, sans
+qu'ils ayent besoin d'obtenir de Nous des Lettres de grace.
+
+XL.
+Voulons que les Esclaves soient reputez meubles, & comme tels qu'ils entrent dans la Communauté, qu'il n'y ait point
+de suite par hypotheque sur eux, qu'ils se partagent également
+entre les Coheritiers fans Preciput & Droit d'ainesse, & qu'ils
+ne foient point sujets au Douaire coustumier, au Retrait Lignager ou Feodal, aux Droits Feodaux & Seigneuriaux, aux
+formalitez des Decrets, ni au retranchement des quatre Quints,
+en cas de disposition à cause de mort ou Testamentaire.
+
+XLI.
+N'entendons toutefois priver nos Sujets de la faculté de
+les stipuler propres à leurs personnes, & aux leurs de leur côté
+& ligne, ainsi qu'il se pratique pour les sommes de deniers &
+autres choses mobiliaires.
+
+XLII.
+Les formalitez prescrites par nos Ordonnances, & par la
+Coustume de Paris, pour les Saisies des choses mobiliaires, seront
+observées dans les Saisies des Esclaves: Voulons que les derniers
+en provenans, soient distribuez par ordre des Saisies; & en cas
+de déconfiture, au sol la livre après que les dettes privilegiées
+auront esté payées; & generalement que la condition des Esclaves soit reglée en toutes affaires comme celles des autres choses mobiliaires.
+
+XLIII.
+Voulons néanmoins que le mary, sa femme & leurs enfans
+impuberes, ne puissent eftre faisis & vendus separément, s'ils
+font tous fous la puissance d'un mesme Maitre; Declarons
+
+nulles les saisies & ventes separées qui pourroient en estre faites,
+ce que Nous voulons aussi avoir lieu dans les ventes volontaires, à peine contre ceux qui seront lesdites ventes, d'estre privez de celuy ou de ceux qu'ils auront gardez, qui sont adjugez
+aux Acquereurs, sans qu'ils soient tenus de faire aucun supplement de prix.
+
+XLIV.
+Voulons aussi que les Esclaves âgez de quatorze ans & au
+dessus jusqu'à soixante ans, attachez à des fonds ou habitations,
+& y travaillant actuellement, ne puissent estre faisis pour autres
+dettes que pour ce qui sera dû du prix de leur achapt, à moins
+que les fonds ou habitations fussent faisis réellement: auquel
+cas Nous enjoignons de les comprendre dans la Saisie réelle, &
+deffendons à peine de nullité, de proceder par Saisie réelle &
+Adjudication par decret fur des fonds ou habitations, fans y
+comprendre les Esclaves de l'âge fusdit, y travaillant actuellement.
+
+XLV.
+Le Fermier judiciaire des fonds ou habitations faisis réellement, conjointement avec les Esclaves, sera tenu de payer le
+prix de son Bail, sans qu'il puise compter parmi les fruits qu'il
+perçoit, les enfans qui seront nez des Esclaves pendant sondit
+Bail.
+
+XLVI.
+Voulons nonobstant toutes conventions contraires,que
+Nous declarons nulles, que lesdits enfans appartiennent à la
+partie Saisie si les Creanciers font satisfaits d'ailleurs, ou à l'Adjudicataire s'il intervient un Decret; & à cet effet il sera fait mention dans la derniere affiche de l'interposition dudit Decret,
+des enfans nez des Esclaves depuis la Saisie réelle, comme aussi
+des Esclaves decedez depuis ladite Saisie réelle dans laquelle ils
+estoient compris.
+
+XLVII.
+Pour éviter aux frais & aux longueurs de procedures, voulons que la distribution du prix entier de l'Adjudication conjointe des fonds & des Esclaves, & de ce qui proviendra du
+
+prix des Baux judiciaires, soit faire 'entre les Creanciers selon l'ordre de leurs Privileges & Hypotheques, sans d.stinguer ce qui est pour le prix des Esclaves; & néanmoins les Droits Feodaux & Scigneuriaux ne feront payez qu'à proportion des fonds.
+
+XLVIII.
+Ne feront reçûs les Lignagers & les Seigneurs Feodaux, à retirer les fonds decretez, licitez ou vendus volontairement, s'ils ne retirent auffi les Esclaves vendus conjointemcnt avec les fonds ou ils travailloient aduellement; ni l'Adjudicataire ou l'Acquereur, à retenir les Esclaves fans les fonds.
+
+XLIX.
+ENJOIGNONS aux Gardiens nobles & bourgeois, Ufufruitiers, Amodiateurs, & autres joüiffans de fonds aulquels font attachez des Efclaves qui y travaillent, de gouverner lesdits Esclaves en bons peres de familles; au moyen dequoy ils ne feront pas tenus apres leur administration finie de rendre le prix de ceux qui feront decedez ou diminuez par maladie, vieilleffe ou autrement, fans leur faute : Et auffi ils ne pourront pas retenir comme fruits à leur profit, les enfans nez desdits Esclaves durant leur administration, lesquels Nous voulons estre conservez & rendùs à ceux qui en font les Maîtres & les Proprietaires.
+
+L. Les Maîtres âgez de vingt-cinq ans pourront affranchir leurs Esclaves par tous Actes entre vifs ou à cause de mort : Et cependant comme il se peut trouver des Maîtres assez mercenaires pour mettre la liberté de leurs Esclaves à prix, ce qui porte lesdits Esclaves au vol & au brigandage, deffendons à toutes personnes de quelque qualité & condition qu'elles soient, d'affranchir leurs Esclaves, sans en avoir obtenu la permission par Arrest de nostredit Conseil superieur ; laquelle permission sera accordée sans frais, lorsque les motifs qui auront esté exposez par les Maîtres paroîtront legitimes. Voulons que les Affranchissemens qui seront faits à l'avenir sans ces permissions, soient nuls, & que les Affranchis n'en puissent jouïr, ni estre reconnus pour tels : Ordonnons au contraire qu'ils soient tenus, censez & reputez Esclaves, que les Maîtres en soient privez, & qu'ils
+
+soient confisquez au profit de la Compagnie des Indes.
+
+LI.
+Voulons néanmoins que les Esclaves qui auront esté nommez par leurs Maîtres, Tuteurs de leurs enfans, soient tenus & reputez comme Nous les tenons & reputons pour affranchis.
+
+LII.
+DECLARONS les affranchissemens faits dans les formes cy-devant prescrites, tenir lieu de naissance dans nostredite Province de la Loüisianne, & les affranchis n'avoir besoin de nos Lettres de naturalité, pour joüir des avantages de nos Sujets naturels dans notre Royaume, Terres & Pays de notre obéissance, encore qu'ils soient nez dans les Pays estrangers : Declarons cependant lesdits affranchis, ensemble le Negre libre, incapables de recevoir des Blancs aucune donation entre vifs à cause de mort ou autrement : Voulons qu'en cas qu'il leur en soit fait aucune, elle demeure nulle à leur égard, & soit appliquée au profit de l'Hôpital le plus prochain.
+
+LIII.
+COMMANDONS aux affranchis de porter un respect singulier à leurs anciens Maîtres, à leurs Veuves & à leurs Enfans ; ensorte que l'injure qu'ils leur auront faite, soit punie plus grievement que si elle estoit faite à une autre personne, les Directeurs toutesfois francs & quittes envers eux de toutes autres Charges, Services & Droits utiles que leurs anciens Maîtres voudroient prétendre, tant sur leurs personnes que sur leurs Biens & Successions, en qualité de Patrons.
+
+OCTROYONS aux Affranchis les mesmes Droits, Privileges & Immunitez dont jouïssent les personnes nées libres ; Voulons que le merite d'une liberté acquise produise en eux, tant pour leurs personnes que pour leurs biens, les mesmes effets que le bonheur de la liberté naturelle cause à nos autres Sujets, le tout cependant aux exceptions portées par l'Article LII. des Presentes.
+
+LV.
+DECLARONS les Confiscations & les Amendes qui n'ont point
+
+de destination particuliere par ces Presentes, appartenir à ladite Compagnie des Indes, pour estre payées à ceux qui font préposez à la Recette de ses Droits & Revenus : Voulons néanmoins que distraction soit faite du tiers desdites Confiscations & Amendes, au profit de l'Hôpital le plus proche du lieu où elles auront esté adjugées.
+
+SI DONNONS EN MANDEMENT à nos amez & seaux les Gens tenans notre Conseil superieur de la Loüisianne, que ces Presentes ils ayent à faire lire, publier & registrer, & le contenu en icelles, garder & observer selon leur forme & teneur, nonobstant tous Edits, Declarations, Arrests, Reglemens & Usages à ce contraires, ausquels Nous avons dérogé & dérogeons par ces Presentes ; CAR TEL EST NOTRE PLAISIR. Et afin que ce soit chose ferme & stable à toûjours, Nous y avons fait mettre notre Scel. DONNÉ à Versailles au mois de Mars, l'an de grace mil sept cens vingt-quatre, & de notre Regne le neuviéme. Signé LOUIS. Et plus bas par le Roy, PHELYPEAUX. Visa FLEURIAU, Vû au Conseil, DODUN. Et scellé du grand Sceau de cire verte, en lacs de soye rouge & verte.
+
+Pour Le Roy. 
+
+Sceau de cire verte , en lacs de soye rouge & verte.
+
+Pour le Roy. { Collationné à l'Original, par Nous Ecuyer-Conseiller-Secretaire du Roy, Maison-Couronne de France & de ses Finances.
+
+A PARIS, DE L'IMPRIMERIE ROYALE. 1727.
