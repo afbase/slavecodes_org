@@ -4,7 +4,7 @@ description = "Detailed information about the 1661 Barbados Slave Code"
 sort_by = "weight"
 weight = 0
 template = "codes/page.html"
-
+draft = true
 [extra]
 lead = "testing lead"
 toc = true

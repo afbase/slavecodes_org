@@ -5,7 +5,7 @@ description = "Detailed information about the 1860 District Columbia Slave Codes
 sort_by = "weight"
 weight = 5
 template = "codes/page.html"
-
+draft = true
 [extra]
 # lead = "One page summary of how to start a new AdiDoks project."
 toc = true

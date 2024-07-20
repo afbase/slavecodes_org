@@ -4,7 +4,7 @@ description = "Detailed information about the 1664 Jamaican slave code"
 sort_by = "weight"
 weight = 1
 template = "codes/page.html"
-
+draft = true
 [extra]
 lead = "testing lead"
 toc = false

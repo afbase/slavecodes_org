@@ -4,7 +4,7 @@ description = "Detailed information about the 1685 Code Noir"
 sort_by = "weight"
 weight = 2
 template = "codes/page.html"
-
+draft = true
 [extra]
 lead = "One page summary of how to start a new AdiDoks project."
 toc = true
