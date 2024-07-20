@@ -1,15 +1,14 @@
 +++
-title = "District-columbia-slave-codes (1860)"
-description = "Detailed information about the 1860 District-columbia-slave-codes"
-date = "2024-07-20T02:14:42Z"
-updated = "2024-07-20T02:14:42Z"
+title = "1860 District Columbia Slave Codes"
+description = "Detailed information about the 1860 District Columbia Slave Codes"
+
 sort_by = "weight"
-weight = 0
+weight = 5
 template = "codes/page.html"
 
 [extra]
-lead = "One page summary of how to start a new AdiDoks project."
-toc = false
+# lead = "One page summary of how to start a new AdiDoks project."
+toc = true
 top = true
 +++
 

@@ -8,12 +8,12 @@ description = "slavecodes.org is a website that publishes various slave codes fr
 default_language = "en"
 
 # Whether to generate a feed file for the site
-generate_feed = true
+generate_feeds = true
 
 # When set to "true", the generated HTML files are minified.
 minify_html = false
-# Whether to automatically compile all Sass files in the sass directory
-compile_sass = true
+# # Whether to automatically compile all Sass files in the sass directory
+# render = true
 
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false

@@ -1,10 +1,8 @@
 +++
-title = "Jamaica-slave-code (1664)"
-description = "Detailed information about the 1664 Jamaica-slave-code"
-date = "2024-07-20T02:14:42Z"
-updated = "2024-07-20T02:14:42Z"
+title = "1664 Jamaica Slave Code"
+description = "Detailed information about the 1664 Jamaican slave code"
 sort_by = "weight"
-weight = 0
+weight = 1
 template = "codes/page.html"
 
 [extra]

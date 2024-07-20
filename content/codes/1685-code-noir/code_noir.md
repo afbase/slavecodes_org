@@ -1,10 +1,8 @@
 +++
-title = "Code-noir (1685)"
-description = "Detailed information about the 1685 Code-noir"
-date = "2024-07-20T02:14:42Z"
-updated = "2024-07-20T02:14:42Z"
+title = "1685 Code Noir"
+description = "Detailed information about the 1685 Code Noir"
 sort_by = "weight"
-weight = 0
+weight = 2
 template = "codes/page.html"
 
 [extra]
@@ -16,6 +14,7 @@ top = false
 # 1685 Code Noir
 
 ## Introduction
+
 
 The Code Noir (Black Code) was a decree passed by King Louis XIV of France in 1685. This comprehensive set of laws was designed to regulate slavery in the French colonial empire, particularly in the Caribbean colonies, French Guiana, and Louisiana. The Code Noir had a profound impact on the lives of enslaved Africans and the development of French colonial society.
 

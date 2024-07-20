@@ -1,8 +1,6 @@
 +++
-title = "Barbados-slave-code (1667)"
-description = "Detailed information about the 1667 Barbados-slave-code"
-date = "2024-07-20T02:14:42Z"
-updated = "2024-07-20T02:14:42Z"
+title = "1661 Barbados Slave Code"
+description = "Detailed information about the 1661 Barbados Slave Code"
 sort_by = "weight"
 weight = 0
 template = "codes/page.html"
@@ -11,22 +9,6 @@ template = "codes/page.html"
 lead = "testing lead"
 toc = true
 top = false
-+++
-
-
-+++
-title = "1664 Jamaica Slave Code"
-description = "An overview of the 1664 Jamaica Slave Code, one of the earliest comprehensive slave laws in the British colonies"
-date = "2024-07-19T12:00:00Z"
-updated = "2024-07-19T12:00:00Z"
-sort_by = "weight"
-weight = 0
-template = "codes/page.html"
-
-[extra]
-lead = "testing on barbados lead line"
-toc = true
-top = true
 +++
 
 # 1661 Barbados Slave Code
@@ -38,6 +20,8 @@ The 1661 Barbados Slave Code, officially titled "An Act for the better ordering 
 ## Historical Context
 
 Barbados, colonized by the English in 1627, quickly became a center for sugar production. By the 1650s, the island had transitioned to a plantation economy heavily reliant on enslaved African labor. The 1661 Slave Code was enacted to formalize the status of enslaved people and to regulate their treatment and control.
+
+There is no surviving copy of the 1661 slave code.  The revision of 1667 has two surviving copies. One of which is at the [Huntington Library](https://cdm16003.contentdm.oclc.org/digital/collection/p15150coll7/id/57398).
 
 ## Key Provisions
 

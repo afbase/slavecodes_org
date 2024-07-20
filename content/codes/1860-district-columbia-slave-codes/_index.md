@@ -1,10 +1,8 @@
 +++
-title = "1860 District-columbia-slave-codes Section"
-description = "Overview of the 1860 District-columbia-slave-codes"
-date = "2024-07-20T02:14:42Z"
-updated = "2024-07-20T02:14:42Z"
+title = "1860 District Columbia Slave Code"
+description = "Overview of the 1860 District Columbia Slave Code"
 sort_by = "weight"
-weight = 0
+weight = 5
 template = "codes/section.html"
 +++
 

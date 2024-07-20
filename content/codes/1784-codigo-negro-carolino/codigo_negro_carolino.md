@@ -1,10 +1,8 @@
 +++
-title = "Codigo-negro-carolino (1784)"
-description = "Detailed information about the 1784 Codigo-negro-carolino"
-date = "2024-07-20T02:14:42Z"
-updated = "2024-07-20T02:14:42Z"
+title = "1784 Código Negro Carolino"
+description = "Detailed information about the 1784 Código Negro Carolino"
 sort_by = "weight"
-weight = 0
+weight = 4
 template = "codes/page.html"
 
 [extra]

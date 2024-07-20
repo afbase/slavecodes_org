@@ -1,10 +1,8 @@
 +++
-title = "1685 Code-noir Section"
-description = "Overview of the 1685 Code-noir"
-date = "2024-07-20T02:14:42Z"
-updated = "2024-07-20T02:14:42Z"
+title = "1685 Code Noir"
+description = "Overview of the 1685 Code Noir"
 sort_by = "weight"
-weight = 0
+weight = 2
 template = "codes/section.html"
 +++
 

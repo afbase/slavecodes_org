@@ -1,10 +1,8 @@
 +++
-title = "Louisiana-code-noir (1724)"
-description = "Detailed information about the 1724 Louisiana-code-noir"
-date = "2024-07-20T02:14:42Z"
-updated = "2024-07-20T02:14:42Z"
+title = "1724 Louisiana Code Noir"
+description = "Detailed information about the 1724 Louisiana code noir"
 sort_by = "weight"
-weight = 0
+weight = 3
 template = "codes/page.html"
 
 [extra]
