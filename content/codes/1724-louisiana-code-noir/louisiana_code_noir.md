@@ -1,6 +1,8 @@
 +++
-title = "1724 Louisiana Code Noir"
+title = "Summary about the 1724 Louisiana Code Noir"
 description = "Detailed information about the 1724 Louisiana code noir"
+date = 2024-07-20T07:04:00+00:00
+updated = 2024-07-20T07:04:00+00:00
 sort_by = "weight"
 weight = 3
 template = "codes/page.html"

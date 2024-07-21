@@ -34,6 +34,3 @@ title = "Learn your history"
 content = "Our blog will details the echoes and effects of slave codes from the past and how they show up in today's world.  Yes.  If you are reading this, they effect you."
 
 +++
-[Coming Soon](https://github.com/afbase/slavecodes_org)
-
-
