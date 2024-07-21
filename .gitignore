@@ -13,3 +13,6 @@ Cargo.lock
 
 # MSVC Windows builds of rustc generate these, which store debugging information
 *.pdb
+
+# https://gist.github.com/afbase/b90ce79ddfbd0a9916ac6de2c3469953
+consolidate.sh
