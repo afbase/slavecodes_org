@@ -8,7 +8,7 @@ weight = 3
 template = "codes/page.html"
 draft = false
 [extra]
-lead = "louisiaaana"
+lead = "For the time being, please ignore this page as I intent to revise this heavily.  Do not quote or cite this particular page at all."
 toc = true
 top = true
 +++
