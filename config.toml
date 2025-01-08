@@ -8,7 +8,7 @@ description = "slavecodes.org is a website that publishes various slave codes fr
 default_language = "en"
 
 # Whether to generate a feed file for the site
-generate_feeds = true
+generate_feeds = false
 
 # When set to "true", the generated HTML files are minified.
 minify_html = false

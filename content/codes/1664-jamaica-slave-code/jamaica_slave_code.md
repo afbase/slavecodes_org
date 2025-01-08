@@ -5,6 +5,8 @@ sort_by = "weight"
 weight = 1
 template = "codes/page.html"
 draft = true
+date = 2025-01-07T07:04:00+00:00
+updated = 2025-01-07T07:04:00+00:00
 [extra]
 lead = "testing lead"
 toc = false

@@ -5,6 +5,8 @@ sort_by = "weight"
 weight = 4
 template = "codes/page.html"
 draft = true
+date = 2023-01-01T00:00:00+00:00
+updated = 2023-01-07T07:04:00+00:00
 [extra]
 lead = "One page summary of how to start a new AdiDoks project."
 toc = false
