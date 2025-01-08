@@ -1,0 +1,22 @@
+#searchBar {
+    transition: bottom 0.3s;
+    z-index: 1000;
+}
+/* The sticky class is added to the navbar with JS when it reaches its scroll position */
+#searchBar.sticky {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+
+.current-match {
+    background-color: #ffa500 !important;
+}
+
+mark {
+    background-color: #ffff00;
+}
+.docs-content pre {
+    max-width: 100%;
+    overflow-x: auto;
+}
