@@ -2,7 +2,7 @@
 title = "1860 District of Columbia Slave Code"
 description = "The Last Major Slave Code in the U.S."
 date = 2025-02-26T20:37:14+00:00
-updated = 2025-02-27T07:04:00+00:00
+updated = 2025-02-26T20:37:14+00:00
 draft = false
 template = "blog/page.html"
 
