@@ -14,7 +14,7 @@ lead = "Some things don't change"
 toc = true
 top = true
 +++
-[SlaveCodes.org](http://SlaveCodes.org) has transcribed the District of Columbia Slave Codes of 1860. It is one of the last slave codes in the United States and across the Americas.
+[SlaveCodes.org](http://SlaveCodes.org) has transcribed the [District of Columbia Slave Codes of 1860](/codes/1860-district-columbia-slave-codes/slave-code/). It is one of the last slave codes in the United States and across the Americas.
 
 A defining characteristic of this slave legislation is how it transforms judicial rulings into codified law. Notably, it codifies the Dred Scott v. Sandford decision, which denied citizenship to all Black people, enslaved or free. It codifies other court rulings, many of which come from [William Cranch](https://en.wikipedia.org/wiki/William_Cranch)'s books of court case rulings.
 

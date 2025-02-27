@@ -13,7 +13,7 @@ top = true
 transcription_tool = "claude.ai"
 translation_tool = "claude.ai"
 citation = """
-Library of Congress
+District Of Columbia, and United States. Slave-code for the District of Columbia. 1860. Manuscript/Mixed Material. Retrieved from the Library of Congress, <www.loc.gov/item/ltf96001559/>.
 """
 [[extra.slave_code.codes]]
 is_transcribed = true
