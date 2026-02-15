@@ -48,10 +48,12 @@ jobs:
           docker rm "${CONTAINER_ID}"
           # Remove Dioxus index.html so Zola template renders instead
           rm -f themes/adidoks/static/slave-trade-map/index.html
-          # Rename hashed Dioxus entry JS to a stable name and fix base paths
+          # Copy CSS/WASM from assets/ to root so Dioxus can find them via relative paths
+          cp themes/adidoks/static/slave-trade-map/assets/*.css themes/adidoks/static/slave-trade-map/ 2>/dev/null || true
+          cp themes/adidoks/static/slave-trade-map/assets/*.wasm themes/adidoks/static/slave-trade-map/ 2>/dev/null || true
+          # Create stable-named entry JS with fixed asset paths
           ENTRY_JS=$(find themes/adidoks/static/slave-trade-map/assets -maxdepth 1 -name 'slave-trade-map-*.js' | head -1)
           if [ -n "$ENTRY_JS" ]; then
-            # Replace /./assets/ with /slave-trade-map/assets/ so WASM loads from correct path
             sed 's|"/\./assets/|"/slave-trade-map/assets/|g' "$ENTRY_JS" > themes/adidoks/static/slave-trade-map/assets/slave-trade-map-entry.js
           fi
 
