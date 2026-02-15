@@ -1,32 +1,53 @@
+name: Build and deploy GH Pages
 on:
   push:
     branches:
-      - main 
-name: Build and deploy GH Pages
+      - main
+  repository_dispatch:
+    types: [slave-trade-map-updated]
+  workflow_dispatch:
+
 jobs:
   build:
     runs-on: ubuntu-latest
     if: github.ref != 'refs/heads/main'
     steps:
-      - name: 'checkout'
+      - name: checkout
         uses: actions/checkout@v4
         with:
           submodules: true
-      - name: 'build'
+      - name: build
         uses: shalzz/zola-deploy-action@v0.20.0
         env:
           BUILD_DIR: .
           TOKEN: ${{ secrets.ACTIONS_TOKEN }}
           BUILD_ONLY: true
+
   build_and_deploy:
     runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/main'
+    if: github.ref == 'refs/heads/main' || github.event_name == 'repository_dispatch' || github.event_name == 'workflow_dispatch'
     steps:
-      - name: 'checkout'
+      - name: checkout
         uses: actions/checkout@v4
         with:
           submodules: true
-      - name: 'build and deploy'
+
+      - name: Login to GHCR
+        uses: docker/login-action@v3
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Pull slave-trade-map artifacts
+        run: |
+          set -euxo pipefail
+          CONTAINER_ID=$(docker create ghcr.io/afbase/slave-trade-map:latest)
+          mkdir -p themes/adidoks/static/slave-trade-map
+          docker cp "${CONTAINER_ID}:/dist/." themes/adidoks/static/slave-trade-map/
+          docker rm "${CONTAINER_ID}"
+
+      - name: build and deploy
         uses: shalzz/zola-deploy-action@v0.20.0
         env:
           PAGES_BRANCH: gh-pages

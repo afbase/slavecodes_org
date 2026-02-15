@@ -16,6 +16,12 @@ url = "/codes/"
 weight = 10
 
 [[extra.menu.main]]
+name = "Slave Trade Map"
+section = "slave-trade-map"
+url = "/slave-trade-map/"
+weight = 15
+
+[[extra.menu.main]]
 name = "Blog"
 section = "blog"
 url = "/blog/"
