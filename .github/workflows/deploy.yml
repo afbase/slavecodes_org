@@ -42,7 +42,7 @@ jobs:
       - name: Pull slave-trade-map artifacts
         run: |
           set -euxo pipefail
-          CONTAINER_ID=$(docker create ghcr.io/afbase/slave-trade-map:latest)
+          CONTAINER_ID=$(docker create ghcr.io/afbase/slave-trade-map:latest sh)
           mkdir -p themes/adidoks/static/slave-trade-map
           docker cp "${CONTAINER_ID}:/dist/." themes/adidoks/static/slave-trade-map/
           docker rm "${CONTAINER_ID}"
