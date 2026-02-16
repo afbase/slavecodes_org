@@ -16,7 +16,7 @@ top = true
 
 When I first encountered the "Volume and Direction of the Trans-Atlantic Slave Trade" map in Eltis and Richardson's *Atlas of the Transatlantic Slave Trade*, it stopped me in my tracks.
 
-{{ image_with_caption(url="09.jpg", width=800, caption="\"Volume and Direction of the Trans-Atlantic Slave Trade from All Africa to All American Regions\" — from David Eltis and David Richardson, *Atlas of the Transatlantic Slave Trade* (Yale University Press, 2010), Map 9.", credit="Eltis & Richardson / Yale University Press") }}
+{{ image_with_caption(url="blog/09.jpg", width=800, caption='Volume and Direction of the Trans-Atlantic Slave Trade from All Africa to All American Regions — Map 9 from David Eltis and David Richardson, Atlas of the Transatlantic Slave Trade (Yale University Press, 2010).', credit="Eltis & Richardson / Yale University Press") }}
 
 Here was the entire geography of the slave trade rendered in a single image — thick arrows sweeping across the Atlantic from Africa to the Americas, their widths proportional to the millions of people forced along each route. I could *see* that Brazil dwarfed every other destination. I could see the Caribbean's enormous share. I could see that North America, for all the attention it receives, was a relatively small piece of the whole. The map conveyed the scale of the trade in a way that tables of numbers never could.
 
@@ -61,7 +61,7 @@ I found three such documents in the records of New Orleans. They tell the story 
 
 ### The Ship Manifest
 
-{{ image_with_caption(url="ship-manifest.jpeg", width=800, caption="Manifest of Slaves on board the Schooner Sémillante, bound from New Orleans for the Port of Bay Saint Louis. District of Mississippi, May 29, 1827.", credit="New Orleans Notarial Archives") }}
+{{ image_with_caption(url="blog/ship-manifest.jpeg", width=800, caption="Manifest of Slaves on board the Schooner Sémillante, bound from New Orleans for the Port of Bay Saint Louis. District of Mississippi, May 29, 1827.", credit="New Orleans Notarial Archives") }}
 
 This printed form documents the **coastwise domestic slave trade** — the movement of enslaved people by ship between American ports. A single entry records **Francoise**, a 24-year-old Black woman, five feet and one inch tall, shipped by **Pierre Liquet** of New Orleans aboard the schooner *Sémillante*, master **Jn. Lopez**, to Bay Saint Louis, Mississippi.
 
@@ -75,7 +75,7 @@ Documents like this one — and there were tens of thousands — do not appear i
 
 ### Eulalie's Petition (1810)
 
-{{ image_with_caption(url="eulalie-bayeron-blase-cenas.jpeg", width=800, caption="Petition of Eulalie Bayeron, fille de couleur libre, to the Honorable City Court of New Orleans, ca. 31 May 1810.", credit="New Orleans Notarial Archives") }}
+{{ image_with_caption(url="blog/eulalie-bayeron-blase-cenas.jpeg", width=800, caption="Petition of Eulalie Bayeron, fille de couleur libre, to the Honorable City Court of New Orleans, ca. 31 May 1810.", credit="New Orleans Notarial Archives") }}
 
 Around May 31, 1810, **Eulalie Bayeron** — identified in the document as a *fille de couleur libre*, a free daughter of color — filed a petition with the New Orleans city court. She reported that on August 29, 1807, she had purchased an enslaved man named **Victor** in **Santiago de Cuba** (*S[ain]t Yague de Cuba*) from a man named **Dupuis** for **350 piastres**. Victor is described as a *nègre bossal* — a term derived from the Spanish *bozal*, meaning a person recently arrived from Africa who had not yet been creolized into the colonial culture.{{ footnote(id="5", content="The term *bozal* (French *bossal*) distinguished recently arrived Africans from *criollos/créoles* — enslaved people born in the Americas. It carried implications about language, cultural assimilation, and market value.") }}
 
@@ -131,7 +131,7 @@ Several dimensions of this document deserve attention.
 
 ### The Sale of Marie (1817)
 
-{{ image_with_caption(url="marie-sale.jpeg", width=800, caption="Notarial act for the sale of Marie, an enslaved woman, from Eulalie Bayeron to Jean Antoine Bernard. New Orleans, 17 May 1817.", credit="New Orleans Notarial Archives") }}
+{{ image_with_caption(url="blog/marie-sale.jpeg", width=800, caption="Notarial act for the sale of Marie, an enslaved woman, from Eulalie Bayeron to Jean Antoine Bernard. New Orleans, 17 May 1817.", credit="New Orleans Notarial Archives") }}
 
 Seven years after the petition for Victor, Eulalie appears again in the notarial records — this time as a seller. On **May 17, 1817**, before a New Orleans notary, Eulalie Bayeron sold an enslaved woman named **Marie**, described as a *négrette* aged approximately twenty-five years, to **Jean Antoine Bernard**, a *commerçant* (merchant) residing in the city, for **725 piastres** paid in cash.{{ footnote(id="8", content="At 725 piastres (equivalent to approximately 725 US dollars in 1817), this was a substantial sum — roughly equivalent to $18,000--$20,000 in present-day purchasing power.") }}
 
@@ -173,7 +173,7 @@ The map above tells one story — the oceanic story, the Middle Passage, the shi
 
 ## Primary Sources
 
-{{ gallery(images="ship-manifest.jpeg, eulalie-bayeron-blase-cenas.jpeg, marie-sale.jpeg", captions="Ship manifest — Francoise (1827), Petition of Eulalie Bayeron (1810), Sale of Marie (1817)") }}
+{{ gallery(images="blog/ship-manifest.jpeg, blog/eulalie-bayeron-blase-cenas.jpeg, blog/marie-sale.jpeg", captions="Ship manifest — Francoise (1827), Petition of Eulalie Bayeron (1810), Sale of Marie (1817)") }}
 
 Full transcriptions and translations are available on the [notes page](@/slave-trade-map/notes.md).
 
