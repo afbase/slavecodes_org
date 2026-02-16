@@ -76,15 +76,15 @@ It does not record:
 
 These transactions — smaller in scale than the ocean crossings, but no less devastating to the people caught in them — generated their own paper trail: court petitions, bills of sale, ship manifests for the coastwise trade, notarial records. They are preserved in archives across the former slaveholding states and territories.
 
-Three such documents survive in the records of New Orleans. They tell the story of **Eulalie Bayeron**, a free woman of color who bought, lost, and sold enslaved people between 1805 and 1819.
+Three such documents survive in the records of New Orleans. They tell the story of **Eulalie Bayeron**, a free woman of color who bought, lost, and sold enslaved people between 1807 and 1827.
 
-## Voices in the Archive: New Orleans, 1807--1819
+## Voices in the Archive: New Orleans, 1807--1827
 
 ### The Ship Manifest
 
-{{ image_with_caption(url="ship-manifest.jpeg", caption="Manifest of Slaves on board the Schooner Firm Maint, bound from New Orleans for the Port of Bay Saint Louis. District of Mississippi, circa 1823.", credit="New Orleans Notarial Archives") }}
+{{ image_with_caption(url="ship-manifest.jpeg", caption="Manifest of Slaves on board the Schooner Sémillante, bound from New Orleans for the Port of Bay Saint Louis. District of Mississippi, May 29, 1827.", credit="New Orleans Notarial Archives") }}
 
-This printed form documents the **coastwise domestic slave trade** — the movement of enslaved people by ship between American ports. A single entry records **Francoise**, a 24-year-old Black woman, five feet and one inch tall, shipped by **Firm Sypert** of New Orleans to Bay Saint Louis, Mississippi.
+This printed form documents the **coastwise domestic slave trade** — the movement of enslaved people by ship between American ports. A single entry records **Francoise**, a 24-year-old Black woman, five feet and one inch tall, shipped by **Pierre Liquet** of New Orleans aboard the schooner *Sémillante*, master **Jn. Lopez**, to Bay Saint Louis, Mississippi.
 
 The manifest's most revealing feature is the oath at the bottom. The shipper and the ship's master swear
 
@@ -94,48 +94,52 @@ This is the **1808 oath** — the legal mechanism by which the domestic coastwis
 
 Documents like this one — and there were tens of thousands — do not appear in the Trans-Atlantic Slave Trade Database. Francoise's forced journey from New Orleans to Bay Saint Louis is invisible to the map above.
 
-### Eulalie's Petition (1814)
+### Eulalie's Petition (1810)
 
-{{ image_with_caption(url="eulalie-bayeron-blase-cenas.jpeg", caption="Petition of Eulalie D'Ayeron, fille de couleur libre, to the Honorable Court of the City of New Orleans, 31 May 1814.", credit="New Orleans Notarial Archives") }}
+{{ image_with_caption(url="eulalie-bayeron-blase-cenas.jpeg", caption="Petition of Eulalie Bayeron, fille de couleur libre, to the Honorable City Court of New Orleans, ca. 31 May 1810.", credit="New Orleans Notarial Archives") }}
 
-On May 31, 1814, **Eulalie D'Ayeron** — identified in the document as a *fille de couleur libre*, a free daughter of color — filed a petition with the New Orleans city court. She reported that on August 29, 1807, she had purchased an enslaved man named **Victor** in **Santiago de Cuba** from a man named **Dupuis** for **350 piastres**. Victor is described as a *nègre bossol* — a term derived from the Spanish *bozal*, meaning a person recently arrived from Africa who had not yet been creolized into the colonial culture.{{ footnote(id="5", content="The term *bozal* (French *bossol*) distinguished recently arrived Africans from *criollos/créoles* — enslaved people born in the Americas. It carried implications about language, cultural assimilation, and market value.") }}
+Around May 31, 1810, **Eulalie Bayeron** — identified in the document as a *fille de couleur libre*, a free daughter of color — filed a petition with the New Orleans city court. She reported that on August 29, 1807, she had purchased an enslaved man named **Victor** in **Santiago de Cuba** (*S[ain]t Yague de Cuba*) from a man named **Dupuis** for **350 piastres**. Victor is described as a *nègre bossal* — a term derived from the Spanish *bozal*, meaning a person recently arrived from Africa who had not yet been creolized into the colonial culture.{{ footnote(id="5", content="The term *bozal* (French *bossal*) distinguished recently arrived Africans from *criollos/créoles* — enslaved people born in the Americas. It carried implications about language, cultural assimilation, and market value.") }}
 
-Eulalie states that she possessed Victor "peacefully and without trouble" until the day before the petition — **May 30, 1814** — when Sheriff **B. Cenas** of the 1st District of the Superior Court seized Victor. The seizure was not for any debt of Eulalie's. It was executed under an *attachement* (writ of attachment) obtained by a man named **Joseph Gothies** against **Pierre Liquet**, for a debt Gothies claimed Liquet owed him.
+Eulalie states that she possessed Victor "peacefully and without trouble" until the day before the petition — **May 30, 1810** — when Sheriff **B. Cénas** of the 1st District of the Superior Court seized Victor. The seizure was not for any debt of Eulalie's. It was executed under an *attachement* (writ of attachment) obtained by a man named **Joseph Gelliés** against **Pierre Liquet**, for a debt Gelliés claimed Liquet owed him.
 
 Victor — a human being — was seized as **attachable property to satisfy someone else's debt**.
 
-Eulalie petitions the court to order the sheriff to return Victor as her "legitimate property," to pay her four dollars per day for Victor's labor from the date of seizure until his return, and to cover all court costs. The petition is signed by **Seghers** on her behalf.
+Eulalie petitions the court to order the sheriff to return Victor as her "legitimate property," to pay her four escalins per day for Victor's labor from the date of seizure until his return, and to cover all court costs. The petition is signed by **Seghers** on her behalf.
 
 {% accordion(id="petition-tabs", title="Read the full French text and English translation") %}
 **French original:**
 
-> à l'honorable Cour de cité de la nouvelle Orléans
+> À l'honorable cour de cité de la Nouvelle Orléans
 >
-> Eulalie D'ayeron, fille de Couleur libre, demeurant en cette ville;
+> Eulalie Bayeron, fille de couleur libre, demeurant en cette ville;
 >
 > Expose humblement;
 >
-> Que, le 29 du mois d'aout de l'année 1807, elle a acheté a Santiago de Cuba, du Sr Dupuis, un negre bossol nommé Victor, pour le prix de trois cents et cinquante Piastres qu'elle a payé au dit Dupuis, ainsi qu'il appert de l'acte de vente, que votre petitionnaire offre de produire devant cette honorable cour;
+> Que, le 29 du mois d'août de l'année 1807, elle a acheté à S[ain]t Yague de Cuba, du S[ieu]r Dupuis, un nègre bossal nommé Victor, pour le prix de trois cents et cinquante Piastres, qu'elle a payé, au dit Dupuis, ainsi qu'il appert de l'acte de vente, que votre pétitionnaire offre de produire devant cette honorable cour;
 >
-> Que depuis elle a possedé paisiblement et sans trouble ledit negre jusqu'au jour de hier 30 mai 1814, mais qu'audit jour d'hier B. Cenas Shiriff du 1er District de la cour Supérieure de ce territoire, s'est permis de Saisir le dit negre Victor appartenant à votre petitionnaire, et ce en vertu d'un attachement ou ordre de Saisie, obtenu en cette honorable cour par un certain Joseph Gothies contre un nommé Pierre Liquet, pour une prétendue créance que ledit Gothies dit lui être due par ledit Liquet.
+> Que depuis elle a possédé paisiblement et sans trouble le dit nègre jusqu'au jour de hier 30 mai 1810; mais qu'au dit jour d'hier B. Cénas, Shériff du 1er District de la cour Supérieure de ce territoire, s'est permis de saisir le dit nègre Victor appartenant à votre pétitionnaire, et ce en vertu d'un attachement ou ordre de saisie, obtenu en cette honorable cour par un certain Joseph Gelliés contre un nommé Pierre Liquet, pour une prétendue créance que le dit Gelliés dit lui être dûe par le dit Liquet.
 >
-> Pourquoi votre petitionnaire requiert que ledit Sr Bd. Cour Shiriff, soit cité à comparaitre à votre audience, pour y être condamné a remettre ledit negre Victor à votre petitionnaire, comme sa proprieté légitime, et à lui payer les loyers dudit negre à raison des quatre Dollars par jour depuis le jour de la Saisie jusqu'à celui de la remise qui en sera faite à votre petitionnaire; en sus il est aux frais de cette instance. Et vous ferez justice.
+> Pourquoi votre pétitionnaire requiert, que le dit S[ieu]r B. Cénas Shériff, soit cité à comparaître à votre audience, pour y être condamné à remettre le dit nègre Victor à votre pétitionnaire, comme sa propriété légitime, et à lui payer les loyers du dit nègre à raison de quatre escalins par jour depuis le jour de la saisie jusqu'à celui de la remise qui en sera faite à votre pétitionnaire, ensemble aux frais de cette instance.
 >
-> Seghers, p. la demanderesse
+> Et vous ferez justice.
+>
+> Seghers p[ou]r la demanderesse
 
 **English translation:**
 
-> To the honorable Court of the city of New Orleans
+> To the Honorable City Court of New Orleans
 >
-> Eulalie D'Ayeron, free daughter of color, residing in this city;
+> Eulalie Bayeron, free girl [or daughter] of color, residing in this city;
 >
 > Humbly states;
 >
-> That, on the 29th day of August of the year 1807, she purchased in Santiago de Cuba, from Mr. Dupuis, a bozal negro named Victor, for the price of three hundred and fifty Piastres which she paid to said Dupuis, as appears from the act of sale, which your petitioner offers to produce before this honorable court;
+> That, on the 29th of the month of August of the year 1807, she purchased at Santiago de Cuba [S(ain)t Yague de Cuba], from the Sieur Dupuis, a bozal negro named Victor, for the price of three hundred and fifty Piastres, which she paid to the said Dupuis, as appears from the act of sale, which your petitioner offers to produce before this honorable court;
 >
-> That since then she has possessed said negro peacefully and without trouble until yesterday the 30th of May 1814, but that on said yesterday B. Cenas, Sheriff of the 1st District of the Superior Court of this territory, took it upon himself to seize said negro Victor belonging to your petitioner, and this by virtue of an attachment or order of seizure, obtained in this honorable court by a certain Joseph Gothies against one named Pierre Liquet, for a claimed debt that said Gothies says is owed to him by said Liquet.
+> That since then she has possessed the said negro peacefully and without trouble until yesterday, the 30th of May 1810; but that on said yesterday, B. Cénas, Sheriff of the 1st District of the Superior Court of this territory, took it upon himself to seize the said negro Victor belonging to your petitioner, and this by virtue of an attachment or order of seizure, obtained in this honorable court by a certain Joseph Gelliés against one named Pierre Liquet, for an alleged debt that the said Gelliés claims is owed to him by the said Liquet.
 >
-> Wherefore your petitioner requests that said Mr. Bd. Court Sheriff be cited to appear at your hearing, to be condemned to return said negro Victor to your petitioner, as her legitimate property, and to pay her the wages of said negro at the rate of four Dollars per day from the day of the Seizure until that of the return which shall be made to your petitioner; in addition to the costs of this proceeding. And you will do justice.
+> Wherefore your petitioner requests that the said Sieur B. Cénas, Sheriff, be summoned to appear before your court, there to be condemned to return the said negro Victor to your petitioner, as her legitimate property, and to pay her the hire of the said negro at the rate of four escalins per day from the day of the seizure until the day of the return that shall be made to your petitioner, together with the costs of this proceeding.
+>
+> And you shall do justice.
 >
 > Seghers, for the plaintiff
 {% end %}
@@ -146,31 +150,31 @@ Several dimensions of this document deserve attention.
 
 **The Santiago de Cuba connection.** Victor was purchased in Santiago de Cuba in 1807, one year before the American ban on slave importation took effect. Santiago de Cuba was a major hub for the Caribbean slave trade — the TASTDB records **56 voyages** arriving there, carrying an estimated 13,367 enslaved people, predominantly under Spanish and French flags.{{ footnote(id="7", content="TASTDB filtered for ARRPORT = Santiago de Cuba: 56 voyages, 15,304 estimated embarked, 13,367 estimated disembarked, spanning 1810--1853.") }} As a *bozal*, Victor had likely been brought to Cuba from Africa on one such voyage before Eulalie purchased him there and brought him to New Orleans.
 
-**Repossession.** The legal mechanism at work here is chilling in its ordinariness. Pierre Liquet owed money to Joseph Gothies. Gothies obtained a court order — an *attachement* — to seize Liquet's property. But it was not Liquet's property that was seized; it was Eulalie's. The sheriff took Victor from Eulalie because someone *else's* creditor believed that someone *else* owed him money. A human being was treated as an asset that could be attached, seized, and transferred to satisfy a debt he had no part in.
+**Repossession.** The legal mechanism at work here is chilling in its ordinariness. Pierre Liquet owed money to Joseph Gelliés. Gelliés obtained a court order — an *attachement* — to seize Liquet's property. But it was not Liquet's property that was seized; it was Eulalie's. The sheriff took Victor from Eulalie because someone *else's* creditor believed that someone *else* owed him money. A human being was treated as an asset that could be attached, seized, and transferred to satisfy a debt he had no part in.
 
-### The Sale of Marie (1819)
+### The Sale of Marie (1817)
 
-{{ image_with_caption(url="marie-sale.jpeg", caption="Notarial act for the sale of Marie, an enslaved woman, from Eulalie Bayeron to Jean Antoine Bernard. New Orleans, 7 May 1819.", credit="New Orleans Notarial Archives") }}
+{{ image_with_caption(url="marie-sale.jpeg", caption="Notarial act for the sale of Marie, an enslaved woman, from Eulalie Bayeron to Jean Antoine Bernard. New Orleans, 17 May 1817.", credit="New Orleans Notarial Archives") }}
 
-Five years after the petition for Victor, Eulalie appears again in the notarial records — this time as a seller. On **May 7, 1819**, before a New Orleans notary, Eulalie Bayeron sold an enslaved woman named **Marie**, aged approximately twenty-five years, to **Jean Antoine Bernard**, a *commandant* residing in the city, for **725 piastres** paid in cash.{{ footnote(id="8", content="At 725 piastres (equivalent to approximately 725 US dollars in 1819), this was a substantial sum — roughly equivalent to $18,000--$20,000 in present-day purchasing power.") }}
+Seven years after the petition for Victor, Eulalie appears again in the notarial records — this time as a seller. On **May 17, 1817**, before a New Orleans notary, Eulalie Bayeron sold an enslaved woman named **Marie**, described as a *négrette* aged approximately twenty-five years, to **Jean Antoine Bernard**, a *commerçant* (merchant) residing in the city, for **725 piastres** paid in cash.{{ footnote(id="8", content="At 725 piastres (equivalent to approximately 725 US dollars in 1817), this was a substantial sum — roughly equivalent to $18,000--$20,000 in present-day purchasing power.") }}
 
-The notarial act specifies that Marie had been acquired by Eulalie from **Pierre Liquet** — the same Pierre Liquet whose debts led to Victor's seizure — by an act before the notary **Michel de Armas** in the year **1805**.
+The notarial act specifies that Marie had been acquired by Eulalie from **Pierre Liquet** — the same Pierre Liquet whose debts led to Victor's seizure — by an act before the notary **Michel de Armas** on **September 2, 1815**.
 
 {% accordion(id="marie-tabs", title="Read the key passage in French and English") %}
 **French (key passage):**
 
-> ...au Sieur Jean Antoine Bernard commandant demeurant en cette ville, ici présent et acceptant, acquéreur pour lui ses héritiers ou ayant Cause, une negresse nommée Marie, agée d'environ vingt cinq ans, qui est actuellement de la garantie, comme étant celle qu'elle a acquise du Sieur Pierre Liquet, par acte un rapport de Mtre Michel de Armas, en la Ville de la nouvelle Orléans, mil huit cent cinq.
+> ...Au sieur Jean Antoine Bernard, commerçant demeurant en cette ville, ici présent & acceptant, acquérant pour lui ses héritiers ou ayants causes, une négrette nommée Marie, âgée d'environ vingt cinq ans, qui appartient à la venderesse, comme étant celle qu'elle a acquise du sieur Pierre Liquet, par acte au rapport de M[aît]re Michel de Armas, sous la date du deux Septembre mil huit cent quinze.
 >
-> La présente vente est faite et annoncée pour et moyennant la somme de Sept cent vingt cinq piastres; que le Sr acquéreur le payé comptant à la vendeuse...
+> La présente vente est faite & consentie pour & moyennant la somme de sept cent vingt cinq piastres, que le sieur acquéreur a payé comptant à la venderesse...
 
 **English translation:**
 
-> ...to Mr. Jean Antoine Bernard, commandant, residing in this city, here present and accepting, purchaser for himself, his heirs, or assigns, a negress named Marie, aged approximately twenty-five years, who is presently under warranty, being the one she acquired from Mr. Pierre Liquet, by act before Maître Michel de Armas, in the City of New Orleans, one thousand eight hundred and five.
+> ...To the sieur Jean Antoine Bernard, merchant residing in this city, here present and accepting, acquiring for himself, his heirs, or assigns, a young negress named Marie, aged approximately twenty-five years, who belongs to the seller, being the one she acquired from the sieur Pierre Liquet, by act before Maître Michel de Armas, under the date of the second of September, one thousand eight hundred fifteen [September 2, 1815].
 >
-> The present sale is made and announced for and in consideration of the sum of seven hundred and twenty-five piastres; which the acquiring gentleman paid in cash to the seller...
+> The present sale is made and agreed upon for and in consideration of the sum of seven hundred twenty-five piastres, which the said buyer has paid in cash to the seller...
 {% end %}
 
-**The Pierre Liquet thread.** Liquet connects these documents. Eulalie acquired Marie from Liquet in 1805. Nine years later, Liquet's debts to Joseph Gothies led to the seizure of Victor. By 1819, Eulalie was selling Marie — perhaps to raise capital, perhaps because she needed to, perhaps for reasons the archive does not reveal. What is clear is that the lives of enslaved people were entangled in webs of debt, obligation, and commerce that extended far beyond any single transaction.
+**The Pierre Liquet thread.** Liquet connects all three documents across twenty years. In 1810, Liquet's debts to Joseph Gelliés led to the seizure of Victor. Eulalie acquired Marie from Liquet in 1815. By 1817, Eulalie was selling Marie — perhaps to raise capital, perhaps because she needed to, perhaps for reasons the archive does not reveal. And in 1827, Liquet himself appears on the ship manifest as the owner shipping Francoise to Bay Saint Louis. What is clear is that the lives of enslaved people were entangled in webs of debt, obligation, and commerce that extended far beyond any single transaction.
 
 **The commodification of Marie.** The notarial language is precise and cold: Marie is sold with a warranty (*garantie*), as one would sell a house or a horse. The act specifies her age, her provenance, the chain of ownership. She is, in the eyes of the law, a piece of property being transferred between parties for a stated price. The notary records the sale; the witnesses sign; the piastres change hands. Marie's own experience of this moment — her fear, her grief, her rage, her resignation — is not part of the record.
 
@@ -194,7 +198,7 @@ The map above tells one story — the oceanic story, the Middle Passage, the shi
 
 ## Primary Sources
 
-{{ gallery(images="ship-manifest.jpeg, eulalie-bayeron-blase-cenas.jpeg, marie-sale.jpeg", captions="Ship manifest — Francoise (c. 1823), Petition of Eulalie D'Ayeron (1814), Sale of Marie (1819)") }}
+{{ gallery(images="ship-manifest.jpeg, eulalie-bayeron-blase-cenas.jpeg, marie-sale.jpeg", captions="Ship manifest — Francoise (1827), Petition of Eulalie Bayeron (1810), Sale of Marie (1817)") }}
 
 Full transcriptions and translations are available on the [notes page](@/slave-trade-map/notes.md).
 
