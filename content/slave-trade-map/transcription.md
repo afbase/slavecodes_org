@@ -1,3 +1,10 @@
++++
+title = "Primary Source Transcriptions Copy"
+description = "Full transcriptions and translations of three New Orleans slave trade documents, 1807–182 copy"
+template = "slave-trade-map/page.html"
++++
+
+see https://claude.ai/public/artifacts/271f3948-0cf9-46b1-b807-40a049309cb1
 # Eulalie Bayeron — Document Transcriptions & Translations
 
 Three documents related to Eulalie Bayeron, free woman of color, New Orleans, Louisiana. Transcribed and translated from the original French manuscript sources.
