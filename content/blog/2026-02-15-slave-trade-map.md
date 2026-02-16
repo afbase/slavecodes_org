@@ -14,37 +14,37 @@ toc = true
 top = true
 +++
 
-Numbers on a page cannot convey the scale of the transatlantic slave trade. Between the sixteenth and nineteenth centuries, an estimated 12.5 million Africans were forced onto ships bound for the Americas. The [Trans-Atlantic Slave Trade Database](https://www.slavevoyages.org/) has documented over 36,000 individual voyages. But a spreadsheet of voyage records, however comprehensive, obscures the geographic reality: *where* people were taken from, *where* they were sent, and how those patterns shifted over centuries.
+When I first encountered the "Volume and Direction of the Trans-Atlantic Slave Trade" map in Eltis and Richardson's *Atlas of the Transatlantic Slave Trade*, it stopped me in my tracks.
 
-This interactive map is an attempt to make those patterns visible.
+{{ image_with_caption(url="09.jpg", width=800, caption="\"Volume and Direction of the Trans-Atlantic Slave Trade from All Africa to All American Regions\" — from David Eltis and David Richardson, *Atlas of the Transatlantic Slave Trade* (Yale University Press, 2010), Map 9.", credit="Eltis & Richardson / Yale University Press") }}
+
+Here was the entire geography of the slave trade rendered in a single image — thick arrows sweeping across the Atlantic from Africa to the Americas, their widths proportional to the millions of people forced along each route. I could *see* that Brazil dwarfed every other destination. I could see the Caribbean's enormous share. I could see that North America, for all the attention it receives, was a relatively small piece of the whole. The map conveyed the scale of the trade in a way that tables of numbers never could.
+
+But the more I studied it, the more I wanted to ask questions it couldn't answer. *Which* parts of Africa supplied enslaved people to *which* destinations? How did those patterns shift across centuries? What happened when I selected just Jamaica, or just Cuba, or just the Chesapeake? A static map — even a brilliant one — can't do that. You can't filter it. You can't zoom in. You can't watch the routes evolve over time.
+
+That gap is what inspired this interactive version.
 
 ## What the Map Shows
 
 The visualization renders flow lines from nine African embarkation regions to destinations across the Americas and Europe. Each stem represents the route from one African source region to a selected destination, with thickness proportional to the volume of people transported on that route. The stems converge into a trunk that points to the destination.
 
-The map draws on the same voyage-level data compiled by the Trans-Atlantic Slave Trade Database project, covering both the transatlantic trade and the lesser-known inter-American trade -- the redistribution of enslaved people between ports in the Americas after their initial Atlantic crossing.
+The map draws on the same voyage-level data compiled by the Trans-Atlantic Slave Trade Database project, covering both the transatlantic trade and the lesser-known inter-American trade — the redistribution of enslaved people between ports in the Americas after their initial Atlantic crossing.
+
+Selecting a Caribbean destination like Jamaica or Saint-Domingue reveals that the Bight of Benin, the Gold Coast, and West Central Africa were dominant source regions. Selecting Bahia or Rio de Janeiro shifts the pattern dramatically toward West Central Africa and Southeast Africa — reflecting the Portuguese trade networks that connected Angola and Mozambique to Brazil. Using the time slider to compare early periods against later ones shows how trade routes evolved: the British abolition in 1807 redirected traffic; the expansion of sugar cultivation in Cuba drove a surge of voyages to Havana even as other routes contracted.
+
+And the scale disparities become immediately legible. Brazil received roughly 5.5 million enslaved Africans — more than any other region in the Americas — yet this fact is often underappreciated relative to the attention given to the trade into North America, which received approximately 400,000.
 
 {{ slave_trade_map() }}
-
-## Why Visualization Matters
-
-The slave trade was not a single event but a system that operated differently across time and space. Visualization makes several things immediately apparent that tabular data does not:
-
-1. **Regional concentration**: Selecting a Caribbean destination like Jamaica or Saint-Domingue reveals that the Bight of Benin, the Gold Coast, and West Central Africa were dominant source regions. Selecting Bahia or Rio de Janeiro shifts the pattern dramatically toward West Central Africa and Southeast Africa -- reflecting the Portuguese trade networks that connected Angola and Mozambique to Brazil.
-
-2. **Temporal shifts**: Using the time slider to compare early periods (1500s-1600s) against later ones (1700s-1800s) shows how trade routes evolved. The British abolition of the slave trade in 1807 redirected traffic; the expansion of sugar cultivation in Cuba drove a surge of voyages to Havana in the early nineteenth century even as other routes contracted.
-
-3. **Scale disparities**: The thickness of the flow lines makes relative volume immediately legible. Brazil received more enslaved Africans than any other region in the Americas -- roughly 5.5 million people -- yet this fact is often underappreciated relative to the attention given to the trade into North America, which received approximately 400,000.
 
 ## Routes and the Sea
 
 The flow lines on the map are not arbitrary curves. They follow plausible maritime corridors shaped by the Atlantic wind and current systems that governed sailing routes during the age of sail. Ships departing from Senegambia or Sierra Leone bound for the Caribbean rode the northeast trade winds on a southwesterly arc. Ships from West Central Africa bound for Brazil took the shorter but still perilous route across the South Atlantic, aided by the south equatorial current. European-bound ships followed the westerlies northeastward.
 
-These routes mattered enormously. Voyage duration affected mortality rates. Ships from Southeast Africa to the Caribbean faced the longest crossings -- sometimes exceeding three months -- with correspondingly higher death tolls. The geography of the trade was inseparable from its human cost.
+These routes mattered enormously. Voyage duration affected mortality rates. Ships from Southeast Africa to the Caribbean faced the longest crossings — sometimes exceeding three months — with correspondingly higher death tolls. The geography of the trade was inseparable from its human cost.
 
-## What the Database Does Not Capture
+## What the Database Cannot Capture
 
-The Trans-Atlantic Slave Trade Database documents **voyages across the ocean**. It does not — and cannot — capture what happened to enslaved people once they arrived in the Americas.
+As I dug deeper into the data, I kept running into the same limitation. The Trans-Atlantic Slave Trade Database documents **voyages across the ocean**. It does not — and cannot — capture what happened to enslaved people once they arrived in the Americas.
 
 It does not record:
 - **Domestic sales** between slaveholders within a state or territory
@@ -55,13 +55,13 @@ It does not record:
 
 These transactions — smaller in scale than the ocean crossings, but no less devastating to the people caught in them — generated their own paper trail: court petitions, bills of sale, ship manifests for the coastwise trade, notarial records. They are preserved in archives across the former slaveholding states and territories.
 
-Three such documents survive in the records of New Orleans. They tell the story of **Eulalie Bayeron**, a free woman of color who bought, lost, and sold enslaved people between 1807 and 1827.
+I found three such documents in the records of New Orleans. They tell the story of **Eulalie Bayeron**, a free woman of color who bought, lost, and sold enslaved people between 1807 and 1827. What struck me about these documents is how ordinary they are — routine legal paperwork that treated human beings as transferable property. That ordinariness is what makes them so devastating.
 
-## Voices in the Archive: New Orleans, 1807--1827
+## Voices in the Archive: New Orleans, 1807–1827
 
 ### The Ship Manifest
 
-{{ image_with_caption(url="slave-trade-map/ship-manifest.jpeg", width=800, caption="Manifest of Slaves on board the Schooner Sémillante, bound from New Orleans for the Port of Bay Saint Louis. District of Mississippi, May 29, 1827.", credit="New Orleans Notarial Archives") }}
+{{ image_with_caption(url="ship-manifest.jpeg", width=800, caption="Manifest of Slaves on board the Schooner Sémillante, bound from New Orleans for the Port of Bay Saint Louis. District of Mississippi, May 29, 1827.", credit="New Orleans Notarial Archives") }}
 
 This printed form documents the **coastwise domestic slave trade** — the movement of enslaved people by ship between American ports. A single entry records **Francoise**, a 24-year-old Black woman, five feet and one inch tall, shipped by **Pierre Liquet** of New Orleans aboard the schooner *Sémillante*, master **Jn. Lopez**, to Bay Saint Louis, Mississippi.
 
@@ -75,7 +75,7 @@ Documents like this one — and there were tens of thousands — do not appear i
 
 ### Eulalie's Petition (1810)
 
-{{ image_with_caption(url="slave-trade-map/eulalie-bayeron-blase-cenas.jpeg", width=800, caption="Petition of Eulalie Bayeron, fille de couleur libre, to the Honorable City Court of New Orleans, ca. 31 May 1810.", credit="New Orleans Notarial Archives") }}
+{{ image_with_caption(url="eulalie-bayeron-blase-cenas.jpeg", width=800, caption="Petition of Eulalie Bayeron, fille de couleur libre, to the Honorable City Court of New Orleans, ca. 31 May 1810.", credit="New Orleans Notarial Archives") }}
 
 Around May 31, 1810, **Eulalie Bayeron** — identified in the document as a *fille de couleur libre*, a free daughter of color — filed a petition with the New Orleans city court. She reported that on August 29, 1807, she had purchased an enslaved man named **Victor** in **Santiago de Cuba** (*S[ain]t Yague de Cuba*) from a man named **Dupuis** for **350 piastres**. Victor is described as a *nègre bossal* — a term derived from the Spanish *bozal*, meaning a person recently arrived from Africa who had not yet been creolized into the colonial culture.{{ footnote(id="5", content="The term *bozal* (French *bossal*) distinguished recently arrived Africans from *criollos/créoles* — enslaved people born in the Americas. It carried implications about language, cultural assimilation, and market value.") }}
 
@@ -85,9 +85,7 @@ Victor — a human being — was seized as **attachable property to satisfy some
 
 Eulalie petitions the court to order the sheriff to return Victor as her "legitimate property," to pay her four escalins per day for Victor's labor from the date of seizure until his return, and to cover all court costs. The petition is signed by **Seghers** on her behalf.
 
-{% accordion(id="petition-tabs", title="Read the full French text and English translation") %}
-**French original:**
-
+{% translation_tabs(id="petition", fr_label="Fran&ccedil;ais (original)", en_label="English (translation)") %}
 > À l'honorable cour de cité de la Nouvelle Orléans
 >
 > Eulalie Bayeron, fille de couleur libre, demeurant en cette ville;
@@ -104,7 +102,7 @@ Eulalie petitions the court to order the sheriff to return Victor as her "legiti
 >
 > Seghers p[ou]r la demanderesse
 
-**English translation:**
+<!-- split -->
 
 > To the Honorable City Court of New Orleans
 >
@@ -133,20 +131,18 @@ Several dimensions of this document deserve attention.
 
 ### The Sale of Marie (1817)
 
-{{ image_with_caption(url="slave-trade-map/marie-sale.jpeg", width=800, caption="Notarial act for the sale of Marie, an enslaved woman, from Eulalie Bayeron to Jean Antoine Bernard. New Orleans, 17 May 1817.", credit="New Orleans Notarial Archives") }}
+{{ image_with_caption(url="marie-sale.jpeg", width=800, caption="Notarial act for the sale of Marie, an enslaved woman, from Eulalie Bayeron to Jean Antoine Bernard. New Orleans, 17 May 1817.", credit="New Orleans Notarial Archives") }}
 
 Seven years after the petition for Victor, Eulalie appears again in the notarial records — this time as a seller. On **May 17, 1817**, before a New Orleans notary, Eulalie Bayeron sold an enslaved woman named **Marie**, described as a *négrette* aged approximately twenty-five years, to **Jean Antoine Bernard**, a *commerçant* (merchant) residing in the city, for **725 piastres** paid in cash.{{ footnote(id="8", content="At 725 piastres (equivalent to approximately 725 US dollars in 1817), this was a substantial sum — roughly equivalent to $18,000--$20,000 in present-day purchasing power.") }}
 
 The notarial act specifies that Marie had been acquired by Eulalie from **Pierre Liquet** — the same Pierre Liquet whose debts led to Victor's seizure — by an act before the notary **Michel de Armas** on **September 2, 1815**.
 
-{% accordion(id="marie-tabs", title="Read the key passage in French and English") %}
-**French (key passage):**
-
+{% translation_tabs(id="marie-sale", fr_label="Fran&ccedil;ais (original)", en_label="English (translation)") %}
 > ...Au sieur Jean Antoine Bernard, commerçant demeurant en cette ville, ici présent & acceptant, acquérant pour lui ses héritiers ou ayants causes, une négrette nommée Marie, âgée d'environ vingt cinq ans, qui appartient à la venderesse, comme étant celle qu'elle a acquise du sieur Pierre Liquet, par acte au rapport de M[aît]re Michel de Armas, sous la date du deux Septembre mil huit cent quinze.
 >
 > La présente vente est faite & consentie pour & moyennant la somme de sept cent vingt cinq piastres, que le sieur acquéreur a payé comptant à la venderesse...
 
-**English translation:**
+<!-- split -->
 
 > ...To the sieur Jean Antoine Bernard, merchant residing in this city, here present and accepting, acquiring for himself, his heirs, or assigns, a young negress named Marie, aged approximately twenty-five years, who belongs to the seller, being the one she acquired from the sieur Pierre Liquet, by act before Maître Michel de Armas, under the date of the second of September, one thousand eight hundred fifteen [September 2, 1815].
 >
@@ -173,26 +169,13 @@ The federal ban on slave importation, effective January 1, 1808, did not end the
 **The legal infrastructure adapted.** Documents like the ship manifest above, with its 1808 oath, represent the legal machinery that enabled the domestic trade to operate openly. The oath was a bureaucratic checkpoint — a moment where the state acknowledged that the trade in human beings required at least the *appearance* of legal regulation.
 {% end %}
 
-The map above tells one story — the oceanic story, the Middle Passage, the ships and the ports and the numbers. The documents below the map tell another: the story of what happened after arrival, in the courts and notarial offices and sheriff's departments of the slaveholding South. Both stories are necessary. Neither is complete without the other.
+The map above tells one story — the oceanic story, the Middle Passage, the ships and the ports and the numbers. The documents tell another: the story of what happened after arrival, in the courts and notarial offices and sheriff's departments of the slaveholding South. Both stories are necessary. Neither is complete without the other.
 
 ## Primary Sources
 
-{{ gallery(images="slave-trade-map/ship-manifest.jpeg, slave-trade-map/eulalie-bayeron-blase-cenas.jpeg, slave-trade-map/marie-sale.jpeg", captions="Ship manifest — Francoise (1827), Petition of Eulalie Bayeron (1810), Sale of Marie (1817)") }}
+{{ gallery(images="ship-manifest.jpeg, eulalie-bayeron-blase-cenas.jpeg, marie-sale.jpeg", captions="Ship manifest — Francoise (1827), Petition of Eulalie Bayeron (1810), Sale of Marie (1817)") }}
 
 Full transcriptions and translations are available on the [notes page](@/slave-trade-map/notes.md).
-
-## Reading the Sources
-
-The nine African source regions on the map correspond to the major embarkation zones used by the Trans-Atlantic Slave Trade Database:
-
-- **Senegambia** and **Sierra Leone**: Upper Guinea coast, source of early Portuguese and later British and French trade
-- **Windward Coast** and **Gold Coast**: Central West Africa, site of major European trading forts
-- **Bight of Benin** and **Bight of Biafra**: The densely populated Niger Delta region, a major source for British and Portuguese slavers
-- **West Central Africa**: The Angola-Congo coast, the single largest source region across the entire history of the trade
-- **Southeast Africa**: Mozambique and Madagascar, increasingly important in the late eighteenth and nineteenth centuries
-- **Other Africa**: Interior and less-classified origins
-
-Each of these regions had distinct political structures, ethnic compositions, and relationships with European traders. The map's per-region flow lines make it possible to trace these distinct commercial relationships across the Atlantic.
 
 ## Explore the Full Map
 
