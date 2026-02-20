@@ -4,6 +4,7 @@ description = "An interactive flow map of the transatlantic and inter-American s
 date = 2026-02-15
 updated = 2026-02-15
 template = "blog/page.html"
+draft = true
 
 [taxonomies]
 authors = ["Clinton Bowen"]
@@ -14,9 +15,12 @@ toc = true
 top = true
 +++
 
-When I first encountered the "Volume and Direction of the Trans-Atlantic Slave Trade" map in Eltis and Richardson's *Atlas of the Transatlantic Slave Trade*, it stopped me in my tracks.
+The "Volume and Direction of the Trans-Atlantic Slave Trade" map in Eltis and Richardson's *Atlas of the Transatlantic Slave Trade* is quite encompassing of the Transatlantic slave trade, conveying the numbers of the enslaved from the various origins in Africa to the various destinations in the Americas.
 
 {{ image_with_caption(url="blog/09.jpg", width=800, caption='Volume and Direction of the Trans-Atlantic Slave Trade from All Africa to All American Regions — Map 9 from David Eltis and David Richardson, Atlas of the Transatlantic Slave Trade (Yale University Press, 2010).', credit="Eltis & Richardson / Yale University Press") }}
+
+It made me think about visualizing the slave trade in another way: for each destination in America, what was the composition of trade from Africa by region? This would allow us to understand not just the volume but also the regional diversity of the enslaved by region in the Americas.
+
 
 Here was the entire geography of the slave trade rendered in a single image — thick arrows sweeping across the Atlantic from Africa to the Americas, their widths proportional to the millions of people forced along each route. I could *see* that Brazil dwarfed every other destination. I could see the Caribbean's enormous share. I could see that North America, for all the attention it receives, was a relatively small piece of the whole. The map conveyed the scale of the trade in a way that tables of numbers never could.
 
