@@ -63,3 +63,16 @@ jobs:
           PAGES_BRANCH: gh-pages
           BUILD_DIR: .
           GITHUB_TOKEN: ${{ secrets.ACTIONS_TOKEN }}
+
+      - name: Add CNAME to gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.ACTIONS_TOKEN }}
+        run: |
+          git clone --depth 1 --branch "gh-pages" "https://${GITHUB_TOKEN}@github.com/afbase/slavecodes_org.git" gh-pages-clone
+          cd gh-pages-clone
+          echo "slavecodes.org" > CNAME
+          git config --local user.email "afbase@users.noreply.github.com"
+          git config --local user.name "clinton bowen"
+          git add CNAME
+          git commit -m "Update CNAME file" || echo "No changes to commit"
+          git push
