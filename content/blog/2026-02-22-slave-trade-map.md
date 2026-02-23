@@ -35,4 +35,4 @@ To emphasize David's words: this is not comprehensive.  Two such examples are: (
 
 {{ image_with_caption(url="blog/ship-manifest.jpeg", width=800, caption="Manifest of Slaves on board the Schooner Sémillante, bound from New Orleans for the Port of Bay Saint Louis. District of Mississippi, May 29, 1827.", credit="New Orleans Notarial Archives") }}
 
-[^david1] Eltis, David. "The volume and structure of the transatlantic slave trade: A reassessment." The William and Mary Quarterly 58.1 (2001): 17-46.
+[^david1]: Eltis, David. "The volume and structure of the transatlantic slave trade: A reassessment." The William and Mary Quarterly 58.1 (2001): 17-46.
