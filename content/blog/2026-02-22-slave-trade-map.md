@@ -29,9 +29,9 @@ In the bottom table you are able to explore different voyages in the database or
 
 I explicitly account for the deaths in each voyage—they shouldn't be forgotten.
 
-What you can also learn is the timespan of trade for a specific region or port in the Americas. It's a useful data point for understanding colonization activity in particular regions during the 16th through 19th centuries. It may also reflect the abolition of trade, however it may not include smuggling and doesn't account for overland trade.
+What you can also learn is the timespan of trade for a specific region or port in the Americas. It's a useful data point for understanding colonization activity in particular regions during the 16th through 19th centuries. The timeline may also reflect the abolition of trade in different regions.  Howeve, the database might not include smuggling and doesn't account for overland trade.
 
-To emphasize David's words: this is not comprehensive.  Two such examples are: (1) the Schooner Sémillante manifest and (2) [Pierre Lafitte](https://en.wikipedia.org/wiki/Pierre_Lafitte)'s smuggling of enslaved people are not in the database.
+To emphasize David's words: this is not comprehensive.  Two such examples are: (1) the Schooner Sémillante manifest and (2) [Pierre Lafitte](https://en.wikipedia.org/wiki/Pierre_Lafitte)'s smuggling of enslaved people.
 
 {{ image_with_caption(url="blog/ship-manifest.jpeg", width=800, caption="Manifest of Slaves on board the Schooner Sémillante, bound from New Orleans for the Port of Bay Saint Louis. District of Mississippi, May 29, 1827.", credit="New Orleans Notarial Archives") }}
 
