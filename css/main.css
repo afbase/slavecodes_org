@@ -1,0 +1,48 @@
+/* Add this to your existing CSS file or create a new one */
+.footer {
+    padding: 1rem 0;
+}
+
+.footer ul.list-inline {
+    margin-bottom: 0;
+}
+
+.footer ul.list-inline li:not(:last-child) {
+    margin-right: 1rem;
+}
+
+@media (max-width: 767px) {
+    .footer .col-md-6:first-child {
+        margin-bottom: 1rem;
+    }
+}
+
+.tooltip-wrapper {
+    border-bottom: 1px dotted #000;
+    cursor: help;
+  }
+
+.container-fluid.px-0 {
+    max-width: 100%;
+}
+
+.docs-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+@media (min-width: 992px) {
+    .docs-content {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+}
+
+h1.page-title-border {
+    border-top-width: 12px;
+    border-top-style: solid;
+  }
+
+body.dark .tooltip-wrapper {
+    border-bottom: 1px dotted #ccc;
+}

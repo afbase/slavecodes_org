@@ -1,0 +1,1 @@
+.app-container{max-width:1400px;margin:0 auto;padding:12px 16px}.stm-embedded .app-container{max-width:100%;padding:0}.main-content{gap:12px;display:flex}@media (max-width:768px){.app-container{padding:6px 8px}.main-content{flex-direction:column;gap:8px}}
