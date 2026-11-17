@@ -7,6 +7,9 @@ on:
     types: [slave-trade-map-updated]
   workflow_dispatch:
 
+permissions:
+  contents: read
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -17,14 +20,16 @@ jobs:
         with:
           submodules: true
       - name: build
-        uses: shalzz/zola-deploy-action@74526e63f38f84b82476349bbcd886b82040ff98 # v0.22.1
+        uses: shalzz/zola-deploy-action@06dffc1b49e4f61b31dcf3a6c824194a78216632 # v0.23.1
         env:
           BUILD_DIR: .
-          TOKEN: ${{ secrets.ACTIONS_TOKEN }}
           BUILD_ONLY: true
 
   build_and_deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # push to gh-pages with the built-in GITHUB_TOKEN
+      packages: read    # pull ghcr.io/afbase/slave-trade-map
     if: github.ref == 'refs/heads/main' || github.event_name == 'repository_dispatch' || github.event_name == 'workflow_dispatch'
     steps:
       - name: checkout
@@ -58,17 +63,17 @@ jobs:
           fi
 
       - name: build and deploy
-        uses: shalzz/zola-deploy-action@74526e63f38f84b82476349bbcd886b82040ff98 # v0.22.1
+        uses: shalzz/zola-deploy-action@06dffc1b49e4f61b31dcf3a6c824194a78216632 # v0.23.1
         env:
           PAGES_BRANCH: gh-pages
           BUILD_DIR: .
-          GITHUB_TOKEN: ${{ secrets.ACTIONS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Add CNAME to gh-pages
         env:
-          GITHUB_TOKEN: ${{ secrets.ACTIONS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git clone --depth 1 --branch "gh-pages" "https://${GITHUB_TOKEN}@github.com/afbase/slavecodes_org.git" gh-pages-clone
+          git clone --depth 1 --branch "gh-pages" "https://x-access-token:${GITHUB_TOKEN}@github.com/afbase/slavecodes_org.git" gh-pages-clone
           cd gh-pages-clone
           echo "slavecodes.org" > CNAME
           git config --local user.email "afbase@users.noreply.github.com"

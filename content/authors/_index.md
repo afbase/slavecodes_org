@@ -4,6 +4,7 @@ description = "The authors of the blog articles."
 # date = 2024-07-19T08:00:00+00:00
 # updated = 2024-07-19T08:00:00+00:00
 draft = false
+render = false
 
 # If add a new author page in this section, please add a new item,
 # and the format is as follows:

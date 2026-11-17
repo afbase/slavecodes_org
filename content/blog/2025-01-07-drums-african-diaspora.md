@@ -19,4 +19,4 @@ top = true
 How we listen to music today may differ in a particular way in how music in Africa was performed: music usually was tied to a functional purpose.  That purpose could be for religious worship, work, or even down to particular moments such as losing a tooth.
 
 
-{{ drums_timeline() }}
+{{ <drums_timeline /> }}

@@ -12,7 +12,7 @@ For historical analysis and context, see the [main page](@/slave-trade-map/_inde
 
 ## Document 1: Sale of the Enslaved Woman Marie (May 17, 1817)
 
-{{ image_with_caption(url="marie-sale.jpeg", caption="Notarial act: Sale of Marie by Eulalie Bayeron to Jean Antoine Bernard. New Orleans, 17 May 1817.", credit="New Orleans Notarial Archives") }}
+{{ <image_with_caption url="marie-sale.jpeg" caption="Notarial act: Sale of Marie by Eulalie Bayeron to Jean Antoine Bernard. New Orleans, 17 May 1817." credit="New Orleans Notarial Archives" /> }}
 
 **Source:** Notarial Act before Marc Lafitte, Notary Public, New Orleans
 
@@ -27,7 +27,7 @@ For historical analysis and context, see the [main page](@/slave-trade-map/_inde
 
 ### Transcription and Translation
 
-{% translation_tabs(id="marie-sale", fr_label="Fran&ccedil;ais (original)", en_label="English (translation)") %}
+{% <translation_tabs id="marie-sale" fr_label="Fran&ccedil;ais (original)" en_label="English (translation)"> %}
 Par devant Marc Lafitte, notaire public commissionné pour la ville & paroisse de la Nouvelle Orléans, second district sénatorial de l'état de la Louisiane, y demeurant, & en présence des témoins ci après nommés & soussignés, fut présentée Eulalie Bayeron, femme de couleur & libre, demeurant en cette ville, laquelle déclare vendre, céder & transporter, comme de fait, elle vend, cède & transporte dès maintenant & à toujours, avec promesse de
 
 garantie, de tous troubles quant à la propriété, des vices & maladies rédhibitoires prévus par la loi, et de toute dette hypothécaire, comme le constate le certificat du Conservateur en cette ville à la date de ce jour,
@@ -59,7 +59,7 @@ And in consideration thereof, the seller transfers to the said buyer all the rig
 
 Made and passed in New Orleans, in the office, on the seventeenth of the month of May, in the year one thousand eight hundred seventeen *[May 17, 1817]*, and the forty-first of the Independence of the United States of America, in the presence of the sieurs Jean Louis François Chabey and Jacques Joly, domiciled witnesses, who have signed together with the said buyer and the undersigned public notary, after reading was done; the seller, called upon to sign, declared herself unable to do so, not knowing how, and made her ordinary mark — one word struck out [and?] initialed is void.
 
-{% end %}
+{% </translation_tabs> %}
 
 ### Contextual Notes
 
@@ -82,13 +82,13 @@ Made and passed in New Orleans, in the office, on the seventeenth of the month o
 
 ## Document 2: Petition to the City Court Regarding the Seizure of Victor (filed ca. May 31, 1810)
 
-{{ image_with_caption(url="eulalie-bayeron-blase-cenas.jpeg", caption="Petition of Eulalie Bayeron, fille de couleur libre, to the Honorable City Court of New Orleans, ca. 31 May 1810.", credit="New Orleans Notarial Archives") }}
+{{ <image_with_caption url="eulalie-bayeron-blase-cenas.jpeg" caption="Petition of Eulalie Bayeron, fille de couleur libre, to the Honorable City Court of New Orleans, ca. 31 May 1810." credit="New Orleans Notarial Archives" /> }}
 
 **Source:** Petition to the Honorable City Court of New Orleans
 
 ### Transcription and Translation
 
-{% translation_tabs(id="petition", fr_label="Fran&ccedil;ais (original)", en_label="English (translation)") %}
+{% <translation_tabs id="petition" fr_label="Fran&ccedil;ais (original)" en_label="English (translation)"> %}
 À l'honorable cour de cité de la Nouvelle Orléans
 
 Eulalie Bayeron, fille de couleur libre, demeurant en cette ville;
@@ -123,7 +123,7 @@ And you shall do justice.
 
 *[Signed:]* Seghers, for the plaintiff *[female]*
 
-{% end %}
+{% </translation_tabs> %}
 
 ### Contextual Notes
 
@@ -150,7 +150,7 @@ And you shall do justice.
 
 ## Document 3: Manifest of Slaves — Schooner Sémillante (May 29, 1827)
 
-{{ image_with_caption(url="ship-manifest.jpeg", caption="Manifest of Slaves on board the Schooner Sémillante, bound from New Orleans for the Port of Bay Saint Louis. May 29, 1827.", credit="New Orleans Notarial Archives") }}
+{{ <image_with_caption url="ship-manifest.jpeg" caption="Manifest of Slaves on board the Schooner Sémillante, bound from New Orleans for the Port of Bay Saint Louis. May 29, 1827." credit="New Orleans Notarial Archives" /> }}
 
 **Source:** Printed manifest form, District of Mississippi, Port of New Orleans
 
